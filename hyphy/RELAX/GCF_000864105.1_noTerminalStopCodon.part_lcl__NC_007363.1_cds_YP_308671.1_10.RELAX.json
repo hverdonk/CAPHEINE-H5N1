@@ -1,0 +1,659 @@
+{
+ "Synonymous site-posteriors":  [
+[0.1076950728886636, 0.1155569913906036, 0.1161285335312492, 0.1311646585601326, 0.1188646127381781, 0.1199188665068775, 0.1181909565242391, 0.1235993018137974, 0.1211750234983506, 0.1141740123807203, 0.1170470996755732, 0.1172702512641553, 0.1166588487478599, 0.1184981796962036, 0, 0.1199398855645012, 0.119655164223286, 0.1188093789883815, 0.1176347802594354, 0.1172702512641553, 0.1239030457307504, 0.1185563354460424, 0.1199188665068775, 0.1184981796962036, 0.1208654792010258, 0.1185096658474603, 0.1270871998451123, 0.1161285335312492, 0.1235993018137974, 0.1150675389670148, 0.1181909565242391, 0.1138892378403387, 0.1276804985164681, 0, 0.1202208381323669, 0.1156109485039839, 0.1188646127381781, 0.1150675389670148, 0.1161285335312492, 0.1199188665068775, 0.1174116296368162, 0.1172702512641553, 0.1076950728886636, 0.1235993018137974, 0.1042141547127628, 0.1311646585601326, 0.1202208381323669, 0.127992851161899, 0.1270871998451123, 0.1267460610569152, 0.1184981796962036, 0.1243228537078311, 0.1264584994390867, 0.1164922813640172, 0.1243228537078311, 0.1177191882269485, 0.1202208381323669, 0.1211196216661505, 0.1160825594522073, 0.1264270684660728, 0.1278708281753768, 0.1138892378403387, 0.1204983862966601, 0.114125854909016, 0, 0.1172702512641553, 0.1188646127381781, 0.1204983862966601, 0.1176347802594354, 0.1155569913906036, 0, 0.1308996042371711, 0.1278708281753768, 0.1243228537078311, 0.1185096658474603, 0.1167443127297979, 0.1270871998451123, 0.1178875173968972, 0.1138892378403387, 0.1181909565242391, 0.1221812623946772, 0.1153734873684371, 0, 0.1311646585601326, 0, 0.1278708281753768, 0, 0.1278708281753768, 0, 0.1267460610569152, 0.1156109485039839, 0.1156109485039839, 0.1076950728886636, 0.115304834493579, 0, 0.1276804985164681, 0.1181909565242391, 0, 0, 0.1141740123807203, 0.123461143149291, 0.1239030457307504, 0, 0.1202208381323669, 0.1270871998451123, 0.1199188665068775, 0.112336964034964, 0.127992851161899, 0.114125854909016, 0.1141531189966986, 0.1211196216661505, 0, 0.1239030457307504, 0.1235993018137974, 0.1170470996755732, 0.1276804985164681, 0, 0.1155569913906036, 0.1141740123807203, 0.1264584994390867, 0, 0.1176641013025799, 0.1276804985164681, 0.1161285335312492, 0.1185563354460424, 0.1155569913906036, 0.1143707357573489, 0.1076950728886636, 0.1176641013025799, 0.1172702512641553, 0.112336964034964, 0.1141740123807203, 0.1156109485039839, 0, 0.1076950728886636, 0, 0.1211750234983506, 0.1204983862966601, 0.1188646127381781, 0.1276804985164681, 0.1235993018137974, 0.1204983862966601, 0.1276804985164681, 0.1264270684660728, 0.1188093789883815, 0.1311646585601326, 0.1204983862966601, 0.1143707357573489, 0.1185563354460424, 0, 0.1143707357573489, 0, 0.1185096658474603, 0.1160825594522073, 0.1174116296368162, 0.1150675389670148, 0.1264584994390867, 0.1185096658474603, 0, 0.1246140487344005, 0.1166588487478599, 0.1143898902744763, 0, 0.1185096658474603, 0.112336964034964, 0, 0.1188646127381781, 0.1188646127381781, 0.1188646127381781, 0.1156109485039839, 0.1267460610569152, 0, 0.1184981796962036, 0.1270871998451123, 0.1141531189966986, 0.1235993018137974, 0.1156109485039839, 0.1270871998451123, 0.1076950728886636, 0, 0.1264270684660728, 0, 0.1155569913906036, 0.1177191882269485, 0.127992851161899, 0.1174116296368162, 0.1202208381323669, 0.1174116296368162, 0.1076950728886636, 0, 0, 0.1076950728886636, 0.1174116296368162, 0.1278708281753768, 0.119655164223286, 0.1155569913906036, 0.1199188665068775, 0.1221812623946772, 0.1276804985164681, 0, 0.1235993018137974, 0.1185563354460424, 0.1076950728886636, 0.1199188665068775, 0.1170470996755732, 0.1174116296368162, 0.1155569913906036, 0.1185096658474603, 0.1174116296368162, 0.123461143149291, 0, 0.1076950728886636, 0.1204983862966601, 0.1185096658474603, 0, 0.1076950728886636, 0.123461143149291, 0, 0.1160825594522073, 0.1278708281753768, 0.1177191882269485, 0.1141531189966986, 0, 0.1157945635090165, 0.1178017407525816, 0.1155569913906036, 0, 0.1176641013025799, 0.1243228537078311, 0.1270871998451123, 0, 0.1150675389670148, 0.1172702512641553, 0.1161285335312492, 0.1235993018137974, 0.1153734873684371, 0.1264270684660728, 0.1185096658474603, 0.1185563354460424, 0.1141740123807203, 0.1221812623946772, 0, 0.1246140487344005, 0.1076950728886636, 0.1278708281753768, 0.1204983862966601, 0.1221812623946772, 0.1243228537078311, 0.1185096658474603, 0.1308996042371711, 0.114125854909016, 0.1202208381323669],
+  [0.6061925419807292, 0.5774439459924576, 0.5753539937641768, 0.5203715510464303, 0.565349001255987, 0.5614939224151198, 0.5678123529588495, 0.5480357127334111, 0.5569005461499255, 0.5825010710193306, 0.5719950824545319, 0.5711790863509463, 0.5734147956021746, 0.5666889331667386, 1, 0.5614170622447262, 0.5624581998253072, 0.56555097393701, 0.5698461169480289, 0.5711790863509463, 0.5469250154970787, 0.5664762756384143, 0.5614939224151198, 0.5666889331667386, 0.5580324535771097, 0.5666469318763591, 0.535281552113988, 0.5753539937641768, 0.5480357127334111, 0.5792337216022867, 0.5678123529588495, 0.5835424031327525, 0.5331120430051133, 1, 0.5603897058986325, 0.5772466415746009, 0.565349001255987, 0.5792337216022867, 0.5753539937641768, 0.5614939224151198, 0.5706621095193871, 0.5711790863509463, 0.6061925419807292, 0.5480357127334111, 0.6189211794351257, 0.5203715510464303, 0.5603897058986325, 0.5319698663204854, 0.535281552113988, 0.5365289907888336, 0.5666889331667386, 0.5453899080137375, 0.5375805143794998, 0.5740238808301296, 0.5453899080137375, 0.5695374632071348, 0.5603897058986325, 0.5571031334561325, 0.5755221067030202, 0.5376954476931018, 0.5324160665119457, 0.5835424031327525, 0.5593747983998356, 0.5826771679475172, 1, 0.5711790863509463, 0.565349001255987, 0.5593747983998356, 0.5698461169480289, 0.5774439459924576, 0.9999999999999999, 0.5213407724449837, 0.5324160665119457, 0.5453899080137375, 0.5666469318763591, 0.5731022803442667, 0.535281552113988, 0.5689219356741667, 0.5835424031327525, 0.5678123529588495, 0.5532210427957452, 0.5781149632504191, 0.9999999999999999, 0.5203715510464303, 1, 0.5324160665119457, 1, 0.5324160665119457, 1, 0.5365289907888336, 0.5772466415746009, 0.5772466415746009, 0.6061925419807292, 0.5783660055071204, 0.9999999999999999, 0.5331120430051133, 0.5678123529588495, 1, 0.9999999999999999, 0.5825010710193306, 0.5485409160914968, 0.5469250154970787, 1, 0.5603897058986325, 0.535281552113988, 0.5614939224151198, 0.589218586685518, 0.5319698663204854, 0.5826771679475172, 0.5825774716403646, 0.5571031334561325, 1, 0.5469250154970787, 0.5480357127334111, 0.5719950824545319, 0.5331120430051133, 1, 0.5774439459924576, 0.5825010710193306, 0.5375805143794998, 0.9999999999999999, 0.5697388989931353, 0.5331120430051133, 0.5753539937641768, 0.5664762756384143, 0.5774439459924576, 0.5817817146847732, 0.6061925419807292, 0.5697388989931353, 0.5711790863509463, 0.589218586685518, 0.5825010710193306, 0.5772466415746009, 1, 0.6061925419807292, 1, 0.5569005461499255, 0.5593747983998356, 0.565349001255987, 0.5331120430051133, 0.5480357127334111, 0.5593747983998356, 0.5331120430051133, 0.5376954476931018, 0.56555097393701, 0.5203715510464303, 0.5593747983998356, 0.5817817146847732, 0.5664762756384143, 0.9999999999999999, 0.5817817146847732, 1, 0.5666469318763591, 0.5755221067030202, 0.5706621095193871, 0.5792337216022867, 0.5375805143794998, 0.5666469318763591, 1, 0.5443250981749468, 0.5734147956021746, 0.5817116725603082, 0.9999999999999999, 0.5666469318763591, 0.589218586685518, 0.9999999999999999, 0.565349001255987, 0.565349001255987, 0.565349001255987, 0.5772466415746009, 0.5365289907888336, 1, 0.5666889331667386, 0.535281552113988, 0.5825774716403646, 0.5480357127334111, 0.5772466415746009, 0.535281552113988, 0.6061925419807292, 1, 0.5376954476931018, 1, 0.5774439459924576, 0.5695374632071348, 0.5319698663204854, 0.5706621095193871, 0.5603897058986325, 0.5706621095193871, 0.6061925419807292, 1, 0.9999999999999999, 0.6061925419807292, 0.5706621095193871, 0.5324160665119457, 0.5624581998253072, 0.5774439459924576, 0.5614939224151198, 0.5532210427957452, 0.5331120430051133, 1, 0.5480357127334111, 0.5664762756384143, 0.6061925419807292, 0.5614939224151198, 0.5719950824545319, 0.5706621095193871, 0.5774439459924576, 0.5666469318763591, 0.5706621095193871, 0.5485409160914968, 1, 0.6061925419807292, 0.5593747983998356, 0.5666469318763591, 1, 0.6061925419807292, 0.5485409160914968, 0.9999999999999999, 0.5755221067030202, 0.5324160665119457, 0.5695374632071348, 0.5825774716403646, 0.9999999999999999, 0.5765752184867422, 0.5692355942413537, 0.5774439459924576, 1, 0.5697388989931353, 0.5453899080137375, 0.535281552113988, 1, 0.5792337216022867, 0.5711790863509463, 0.5753539937641768, 0.5480357127334111, 0.5781149632504191, 0.5376954476931018, 0.5666469318763591, 0.5664762756384143, 0.5825010710193306, 0.5532210427957452, 1, 0.5443250981749468, 0.6061925419807292, 0.5324160665119457, 0.5593747983998356, 0.5532210427957452, 0.5453899080137375, 0.5666469318763591, 0.5213407724449837, 0.5826771679475172, 0.5603897058986325],
+  [0.286112385130607, 0.3069990626169388, 0.3085174727045739, 0.3484637903934371, 0.3157863860058349, 0.3185872110780029, 0.3139966905169113, 0.3283649854527914, 0.321924430351724, 0.303324916599949, 0.310957817869895, 0.3115506623848984, 0.3099263556499656, 0.3148128871370578, 0, 0.3186430521907725, 0.3178866359514068, 0.3156396470746086, 0.3125191027925358, 0.3115506623848984, 0.3291719387721709, 0.3149673889155433, 0.3185872110780029, 0.3148128871370578, 0.3211020672218644, 0.3148434022761805, 0.3376312480408998, 0.3085174727045739, 0.3283649854527914, 0.3056987394306985, 0.3139966905169113, 0.3025683590269088, 0.3392074584784186, 0, 0.3193894559690006, 0.3071424099214152, 0.3157863860058349, 0.3056987394306985, 0.3085174727045739, 0.3185872110780029, 0.3119262608437964, 0.3115506623848984, 0.286112385130607, 0.3283649854527914, 0.2768646658521116, 0.3484637903934371, 0.3193894559690006, 0.3400372825176154, 0.3376312480408998, 0.3367249481542512, 0.3148128871370578, 0.3302872382784313, 0.3359609861814134, 0.3094838378058533, 0.3302872382784313, 0.3127433485659166, 0.3193894559690006, 0.3217772448777168, 0.3083953338447725, 0.3358774838408253, 0.3397131053126776, 0.3025683590269088, 0.3201268153035043, 0.3031969771434669, 0, 0.3115506623848984, 0.3157863860058349, 0.3201268153035043, 0.3125191027925358, 0.3069990626169388, 0, 0.3477596233178451, 0.3397131053126776, 0.3302872382784313, 0.3148434022761805, 0.3101534069259353, 0.3376312480408998, 0.3131905469289361, 0.3025683590269088, 0.3139966905169113, 0.3245976948095775, 0.3065115493811438, 0, 0.3484637903934371, 0, 0.3397131053126776, 0, 0.3397131053126776, 0, 0.3367249481542512, 0.3071424099214152, 0.3071424099214152, 0.286112385130607, 0.3063291599993005, 0, 0.3392074584784186, 0.3139966905169113, 0, 0, 0.303324916599949, 0.3279979407592123, 0.3291719387721709, 0, 0.3193894559690006, 0.3376312480408998, 0.3185872110780029, 0.298444449279518, 0.3400372825176154, 0.3031969771434669, 0.3032694093629367, 0.3217772448777168, 0, 0.3291719387721709, 0.3283649854527914, 0.310957817869895, 0.3392074584784186, 0, 0.3069990626169388, 0.303324916599949, 0.3359609861814134, 0, 0.3125969997042847, 0.3392074584784186, 0.3085174727045739, 0.3149673889155433, 0.3069990626169388, 0.3038475495578777, 0.286112385130607, 0.3125969997042847, 0.3115506623848984, 0.298444449279518, 0.303324916599949, 0.3071424099214152, 0, 0.286112385130607, 0, 0.321924430351724, 0.3201268153035043, 0.3157863860058349, 0.3392074584784186, 0.3283649854527914, 0.3201268153035043, 0.3392074584784186, 0.3358774838408253, 0.3156396470746086, 0.3484637903934371, 0.3201268153035043, 0.3038475495578777, 0.3149673889155433, 0, 0.3038475495578777, 0, 0.3148434022761805, 0.3083953338447725, 0.3119262608437964, 0.3056987394306985, 0.3359609861814134, 0.3148434022761805, 0, 0.3310608530906528, 0.3099263556499656, 0.3038984371652154, 0, 0.3148434022761805, 0.298444449279518, 0, 0.3157863860058349, 0.3157863860058349, 0.3157863860058349, 0.3071424099214152, 0.3367249481542512, 0, 0.3148128871370578, 0.3376312480408998, 0.3032694093629367, 0.3283649854527914, 0.3071424099214152, 0.3376312480408998, 0.286112385130607, 0, 0.3358774838408253, 0, 0.3069990626169388, 0.3127433485659166, 0.3400372825176154, 0.3119262608437964, 0.3193894559690006, 0.3119262608437964, 0.286112385130607, 0, 0, 0.286112385130607, 0.3119262608437964, 0.3397131053126776, 0.3178866359514068, 0.3069990626169388, 0.3185872110780029, 0.3245976948095775, 0.3392074584784186, 0, 0.3283649854527914, 0.3149673889155433, 0.286112385130607, 0.3185872110780029, 0.310957817869895, 0.3119262608437964, 0.3069990626169388, 0.3148434022761805, 0.3119262608437964, 0.3279979407592123, 0, 0.286112385130607, 0.3201268153035043, 0.3148434022761805, 0, 0.286112385130607, 0.3279979407592123, 0, 0.3083953338447725, 0.3397131053126776, 0.3127433485659166, 0.3032694093629367, 0, 0.3076302180042413, 0.3129626650060646, 0.3069990626169388, 0, 0.3125969997042847, 0.3302872382784313, 0.3376312480408998, 0, 0.3056987394306985, 0.3115506623848984, 0.3085174727045739, 0.3283649854527914, 0.3065115493811438, 0.3358774838408253, 0.3148434022761805, 0.3149673889155433, 0.303324916599949, 0.3245976948095775, 0, 0.3310608530906528, 0.286112385130607, 0.3397131053126776, 0.3201268153035043, 0.3245976948095775, 0.3302872382784313, 0.3148434022761805, 0.3477596233178451, 0.3031969771434669, 0.3193894559690006] 
+  ],
+ "analysis":{
+   "authors":"Sergei L Kosakovsky Pond, Ben Murrell, Steven Weaver and Temple iGEM / UCSD viral evolution g",
+   "citation":"RELAX: Detecting Relaxed Selection in a Phylogenetic Framework (2015). Mol Biol Evol 32 (3): 820-832",
+   "contact":"spond@temple.edu",
+   "info":"RELAX (a random effects test of selection relaxation) uses a random effects branch-site model framework to test whether a set of 'Test' branches evolves under relaxed selection relative to a set of 'Reference' branches (R), as measured by the relaxation parameter (K).\n                                                Version 2.1 adds a check for stability in K estimates to try to mitigate convergence problems. \n                                                Version 3 provides support for >2 branch sets.\n                                                Version 3.1 adds LHC + Nedler-Mead initial fit phase and keyword support.\n                                                Version 3.1.1 adds some bug fixes for better convergence.\n                                                Version 4.0 adds support for synonymous rate variation.\n                                                Version 4.1 adds further support for multiple hit models.\n                                                Version 4.1.1 adds reporting for convergence diagnostics.\n                                                Version 4.5 adds support for multiple datasets for joint testing.",
+   "requirements":"in-frame codon alignment and a phylogenetic tree, with at least two groups of branches defined using the {} notation (one group can be defined as all unlabeled branches)",
+   "settings":{
+     "convergence-flat-surface":0,
+     "convergence-negative-lrt":3,
+     "convergence-unstable-alernative":      [
+[1, -1264.216184256688] 
+      ]
+    },
+   "version":"4.5"
+  },
+ "branch attributes":{
+   "0":{
+     "Node16":{
+       "General descriptive":1e+26,
+       "MG94xREV with separate rates for branch sets":0.001324458592553086,
+       "Nucleotide GTR":0.001323947807223167,
+       "RELAX alternative":0.001333587558318216,
+       "RELAX null":0.001333587558318214,
+       "RELAX partitioned descriptive":0.001333587558318214,
+       "k (general descriptive)":29.26505425037848
+      },
+     "Node24":{
+       "General descriptive":2158643117.194832,
+       "MG94xREV with separate rates for branch sets":0.002650558649333733,
+       "Nucleotide GTR":0.002647042091104241,
+       "RELAX alternative":0.002669517312404711,
+       "RELAX null":0.002669517312404721,
+       "RELAX partitioned descriptive":0.002669517312404716,
+       "k (general descriptive)":3.16719345495497
+      },
+     "Node27":{
+       "General descriptive":1e+26,
+       "MG94xREV with separate rates for branch sets":0.001324458486396109,
+       "Nucleotide GTR":0.001322451624387447,
+       "RELAX alternative":0.001333588576212695,
+       "RELAX null":0.001333588576212695,
+       "RELAX partitioned descriptive":0.001333588576212695,
+       "k (general descriptive)":12.49459563416071
+      },
+     "Node4":{
+       "General descriptive":1e+26,
+       "MG94xREV with separate rates for branch sets":0.0013290666590172,
+       "Nucleotide GTR":0.001324828228388255,
+       "RELAX alternative":0.001341463292279216,
+       "RELAX null":0.001341463292279213,
+       "RELAX partitioned descriptive":0.001341463292279215,
+       "k (general descriptive)":12.50311791546517
+      },
+     "Node6":{
+       "General descriptive":0.0219505239250441,
+       "MG94xREV with separate rates for branch sets":0.02203987123280741,
+       "Nucleotide GTR":0.02151807634248043,
+       "RELAX alternative":0.02270737642588343,
+       "RELAX null":0.02270737642588343,
+       "RELAX partitioned descriptive":0.02270737642588347,
+       "k (general descriptive)":0.1998688139425496
+      },
+     "PV218196_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":0,
+       "MG94xREV with separate rates for branch sets":5.64115152814933e-10,
+       "Nucleotide GTR":1e-06,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "RELAX partitioned descriptive":0,
+       "k (general descriptive)":0.1522906409080457,
+       "original name":"PV218196_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV218204_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":1e+26,
+       "MG94xREV with separate rates for branch sets":0.00132356185919709,
+       "Nucleotide GTR":0.001322241554478192,
+       "RELAX alternative":0.001332074203807929,
+       "RELAX null":0.001332074203807927,
+       "RELAX partitioned descriptive":0.001332074203807926,
+       "k (general descriptive)":14.76519216914915,
+       "original name":"PV218204_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV218228_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":2212458305.581043,
+       "MG94xREV with separate rates for branch sets":0.001323657631752089,
+       "Nucleotide GTR":0.00132383201037573,
+       "RELAX alternative":0.001332248450877459,
+       "RELAX null":0.00133224845087746,
+       "RELAX partitioned descriptive":0.00133224845087746,
+       "k (general descriptive)":3.225956472061335,
+       "original name":"PV218228_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV218236_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_005_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":1e+26,
+       "MG94xREV with separate rates for branch sets":0.001324179225065786,
+       "Nucleotide GTR":0.001322308195568364,
+       "RELAX alternative":0.001333121156712639,
+       "RELAX null":0.001333121156712637,
+       "RELAX partitioned descriptive":0.001333121156712634,
+       "k (general descriptive)":12.49415683862013,
+       "original name":"PV218236_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_005_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV218252_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_007_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":3766464130.829482,
+       "MG94xREV with separate rates for branch sets":0.002662778269499102,
+       "Nucleotide GTR":0.00265557009924802,
+       "RELAX alternative":0.002687857772676529,
+       "RELAX null":0.002687857772676526,
+       "RELAX partitioned descriptive":0.002687857772676521,
+       "k (general descriptive)":3.21216817253864,
+       "original name":"PV218252_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_007_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV218268_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_010_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":0.00132422693020339,
+       "MG94xREV with separate rates for branch sets":0.001326249109112103,
+       "Nucleotide GTR":0.001324079480424279,
+       "RELAX alternative":0.001336629806717287,
+       "RELAX null":0.001336629806717286,
+       "RELAX partitioned descriptive":0.001336629806717285,
+       "k (general descriptive)":0,
+       "original name":"PV218268_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_010_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV218276_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_011_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":0,
+       "MG94xREV with separate rates for branch sets":5.738399631501746e-10,
+       "Nucleotide GTR":1e-06,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "RELAX partitioned descriptive":0,
+       "k (general descriptive)":0.1511329097396548,
+       "original name":"PV218276_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_011_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV218284_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":1e+26,
+       "MG94xREV with separate rates for branch sets":0.001324526475697941,
+       "Nucleotide GTR":0.001322455394181704,
+       "RELAX alternative":0.001333696458022441,
+       "RELAX null":0.00133369645802244,
+       "RELAX partitioned descriptive":0.001333696458022439,
+       "k (general descriptive)":12.58231425110679,
+       "original name":"PV218284_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV218292_1_Influenza_A_virus_A_Duck_IL_25_000617_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":0.001323291779841031,
+       "MG94xREV with separate rates for branch sets":0.001323791882023654,
+       "Nucleotide GTR":0.00132269120791463,
+       "RELAX alternative":0.001332415037128538,
+       "RELAX null":0.001332415037128539,
+       "RELAX partitioned descriptive":0.001332415037128542,
+       "k (general descriptive)":0,
+       "original name":"PV218292_1_Influenza_A_virus_A_Duck_IL_25_000617_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV218332_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":1e+26,
+       "MG94xREV with separate rates for branch sets":0.001324458833189761,
+       "Nucleotide GTR":0.001322448712538372,
+       "RELAX alternative":0.001333588727700681,
+       "RELAX null":0.001333588727700685,
+       "RELAX partitioned descriptive":0.001333588727700685,
+       "k (general descriptive)":12.49459563416071,
+       "original name":"PV218332_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV218372_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":1e+26,
+       "MG94xREV with separate rates for branch sets":0.001324458538492631,
+       "Nucleotide GTR":0.001322454011558042,
+       "RELAX alternative":0.001333588594406664,
+       "RELAX null":0.001333588594406663,
+       "RELAX partitioned descriptive":0.00133358859440666,
+       "k (general descriptive)":29.26508604121938,
+       "original name":"PV218372_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV218540_1_Influenza_A_virus_A_Turkey_OH_25_001341_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":1e+26,
+       "MG94xREV with separate rates for branch sets":0.001323214814861664,
+       "Nucleotide GTR":0.001322129315381969,
+       "RELAX alternative":0.001331502802930943,
+       "RELAX null":0.001331502802930938,
+       "RELAX partitioned descriptive":0.00133150280293094,
+       "k (general descriptive)":13.59008369688139,
+       "original name":"PV218540_1_Influenza_A_virus_A_Turkey_OH_25_001341_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV218900_1_Influenza_A_virus_A_cattle_CA_25_000605_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":0.002655602552649391,
+       "MG94xREV with separate rates for branch sets":0.002661768418518733,
+       "Nucleotide GTR":0.00265118740931714,
+       "RELAX alternative":0.002688802344692704,
+       "RELAX null":0.002688802344692705,
+       "RELAX partitioned descriptive":0.002688802344692707,
+       "k (general descriptive)":0.08726076363689361,
+       "original name":"PV218900_1_Influenza_A_virus_A_cattle_CA_25_000605_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV218908_1_Influenza_A_virus_A_cattle_CA_25_001132_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":1e+26,
+       "MG94xREV with separate rates for branch sets":0.001328767440863289,
+       "Nucleotide GTR":0.001325064409803158,
+       "RELAX alternative":0.001340976404584451,
+       "RELAX null":0.001340976404584447,
+       "RELAX partitioned descriptive":0.001340976404584447,
+       "k (general descriptive)":12.50304319272575,
+       "original name":"PV218908_1_Influenza_A_virus_A_cattle_CA_25_001132_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV218924_1_Influenza_A_virus_A_cattle_CA_25_001525_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":1e+26,
+       "MG94xREV with separate rates for branch sets":0.001329069458869051,
+       "Nucleotide GTR":0.00132502844474319,
+       "RELAX alternative":0.001341463336712661,
+       "RELAX null":0.00134146333671266,
+       "RELAX partitioned descriptive":0.00134146333671266,
+       "k (general descriptive)":12.43323987058934,
+       "original name":"PV218924_1_Influenza_A_virus_A_cattle_CA_25_001525_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV336655_1_Influenza_A_virus_A_Common_Raven_CA_25_003340_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":0,
+       "MG94xREV with separate rates for branch sets":5.636406642417318e-10,
+       "Nucleotide GTR":1e-06,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "RELAX partitioned descriptive":0,
+       "k (general descriptive)":0.1511329206501179,
+       "original name":"PV336655_1_Influenza_A_virus_A_Common_Raven_CA_25_003340_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV520594_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":1e+26,
+       "MG94xREV with separate rates for branch sets":0.001323657060014428,
+       "Nucleotide GTR":0.001322322539898823,
+       "RELAX alternative":0.001332248841192941,
+       "RELAX null":0.001332248841192942,
+       "RELAX partitioned descriptive":0.00133224884119294,
+       "k (general descriptive)":29.26108417537645,
+       "original name":"PV520594_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV792032_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":0,
+       "MG94xREV with separate rates for branch sets":5.689363620901806e-10,
+       "Nucleotide GTR":1e-06,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "RELAX partitioned descriptive":0,
+       "k (general descriptive)":0.1511329713935515,
+       "original name":"PV792032_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV792040_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":0,
+       "MG94xREV with separate rates for branch sets":5.627751558238069e-10,
+       "Nucleotide GTR":1e-06,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "RELAX partitioned descriptive":0,
+       "k (general descriptive)":0.1558312288391379,
+       "original name":"PV792040_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV792048_1_Influenza_A_virus_A_Duck_NY_25_013275_004_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":0.00132195257681917,
+       "MG94xREV with separate rates for branch sets":0.001319609468459557,
+       "Nucleotide GTR":0.001322332630033458,
+       "RELAX alternative":0.001325381026859442,
+       "RELAX null":0.00132538102685944,
+       "RELAX partitioned descriptive":0.001325381026859439,
+       "k (general descriptive)":0,
+       "original name":"PV792048_1_Influenza_A_virus_A_Duck_NY_25_013275_004_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV792400_1_Influenza_A_virus_A_cattle_ID_25_012902_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":1e+26,
+       "MG94xREV with separate rates for branch sets":0.001327960424832146,
+       "Nucleotide GTR":0.001324961943547799,
+       "RELAX alternative":0.001339623745124276,
+       "RELAX null":0.001339623745124278,
+       "RELAX partitioned descriptive":0.001339623745124276,
+       "k (general descriptive)":12.50190882255925,
+       "original name":"PV792400_1_Influenza_A_virus_A_cattle_ID_25_012902_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      },
+     "PV792536_1_Influenza_A_virus_A_cattle_ID_25_012952_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":{
+       "General descriptive":0,
+       "MG94xREV with separate rates for branch sets":6.860671453397874e-10,
+       "Nucleotide GTR":1e-06,
+       "RELAX alternative":0,
+       "RELAX null":0,
+       "RELAX partitioned descriptive":0,
+       "k (general descriptive)":0.1511329569322979,
+       "original name":"PV792536_1_Influenza_A_virus_A_cattle_ID_25_012952_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds"
+      }
+    },
+   "attributes":{
+     "General descriptive":{
+       "attribute type":"branch length",
+       "display order":4
+      },
+     "MG94xREV with separate rates for branch sets":{
+       "attribute type":"branch length",
+       "display order":1
+      },
+     "Nucleotide GTR":{
+       "attribute type":"branch length",
+       "display order":0
+      },
+     "RELAX alternative":{
+       "attribute type":"branch length",
+       "display order":2
+      },
+     "RELAX null":{
+       "attribute type":"branch length",
+       "display order":3
+      },
+     "RELAX partitioned descriptive":{
+       "attribute type":"branch length",
+       "display order":5
+      },
+     "k (general descriptive)":{
+       "attribute type":"branch label",
+       "display order":4
+      },
+     "original name":{
+       "attribute type":"node label",
+       "display order":-1
+      }
+    }
+  },
+ "data partitions":{
+   "0":{
+     "coverage":      [
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251] 
+      ],
+     "name":"relax.filter.default"
+    }
+  },
+ "fits":{
+   "General descriptive":{
+     "AIC-c":2660.651441515281,
+     "Log Likelihood":-1256.338152201882,
+     "Rate Distributions":{
+       "Shared":{
+         "0":{
+           "omega":4.280169029813542e-05,
+           "proportion":0.9960212208974143
+          },
+         "1":{
+           "omega":4.280169029813542e-05,
+           "proportion":0.003973997783246373
+          },
+         "2":{
+           "omega":209138.3418564728,
+           "proportion":4.781319339332812e-06
+          }
+        }
+      },
+     "display order":4,
+     "estimated parameters":73
+    },
+   "MG94xREV with separate rates for branch sets":{
+     "AIC-c":2613.986492219343,
+     "Equilibrium frequencies":      [
+[0.02397581726456098],
+      [0.02156776660075851],
+      [0.02959060098421927],
+      [0.02189543591188373],
+      [0.0198010960783006],
+      [0.0178123404071499],
+      [0.02443822150618609],
+      [0.01808295522873897],
+      [0.01594174934862657],
+      [0.01434061351757085],
+      [0.01967507254332104],
+      [0.01455848396467826],
+      [0.02309405969540955],
+      [0.02077456980416712],
+      [0.02850234876300545],
+      [0.02109018843555638],
+      [0.01622698158565711],
+      [0.01459719798547052],
+      [0.02002710197450471],
+      [0.01481896660420592],
+      [0.0134015044364451],
+      [0.01205550228360778],
+      [0.01653993963964893],
+      [0.01223865607053718],
+      [0.01078947467228544],
+      [0.009705816027410767],
+      [0.0133162109276188],
+      [0.009853272095091785],
+      [0.01563020260291173],
+      [0.0140603574819722],
+      [0.019290566132605],
+      [0.01427397012604311],
+      [0.02344519643406934],
+      [0.02109043954661631],
+      [0.02893571656064628],
+      [0.02141085704396279],
+      [0.0193628680950884],
+      [0.01741812657262038],
+      [0.02389736697562881],
+      [0.01768275228193892],
+      [0.01558893450250405],
+      [0.01402323421114359],
+      [0.01923963365013461],
+      [0.01423628285817186],
+      [0.02258295348368867],
+      [0.02031479738594437],
+      [0.02787154899485976],
+      [0.02062343090318889],
+      [0.008956392895391392],
+      [0.009092463316799632],
+      [0.008222752013201813],
+      [0.007396886382629893],
+      [0.01014839957820707],
+      [0.007509263927803378],
+      [0.005955190975583364],
+      [0.008170418532677994],
+      [0.006045665495301132],
+      [0.009590212839860597],
+      [0.008627004030742399],
+      [0.0118360996151531],
+      [0.008758070196291894] 
+      ],
+     "Log Likelihood":-1264.664942164934,
+     "Rate Distributions":{
+       "non-synonymous/synonymous rate ratio for *Reference*":        [
+[0.1060351350926429, 1] 
+        ]
+      },
+     "display order":1,
+     "estimated parameters":42
+    },
+   "Nucleotide GTR":{
+     "AIC-c":2715.763021719555,
+     "Equilibrium frequencies":      [
+[0.2825877825877826],
+      [0.2336459836459837],
+      [0.2737493987493987],
+      [0.210016835016835] 
+      ],
+     "Log Likelihood":-1308.733760286867,
+     "Rate Distributions":{
+       "Substitution rate from nucleotide A to nucleotide C":0.2218694885450651,
+       "Substitution rate from nucleotide A to nucleotide G":1,
+       "Substitution rate from nucleotide A to nucleotide T":0.06217345281847133,
+       "Substitution rate from nucleotide C to nucleotide G":0,
+       "Substitution rate from nucleotide C to nucleotide T":0.8984718994996662,
+       "Substitution rate from nucleotide G to nucleotide T":0.06291424930611078
+      },
+     "display order":0,
+     "estimated parameters":49
+    },
+   "RELAX alternative":{
+     "AIC-c":2631.398136903762,
+     "Log Likelihood":-1264.216184256688,
+     "Rate Distributions":{
+       "Reference":{
+         "0":{
+           "omega":0.001302930023987118,
+           "proportion":0
+          },
+         "1":{
+           "omega":0.1031933592294761,
+           "proportion":1
+          },
+         "2":{
+           "omega":8.576720581388814,
+           "proportion":0
+          }
+        },
+       "Synonymous site-to-site rates":{
+         "0":{
+           "proportion":0.1028071023836708,
+           "rate":0
+          },
+         "1":{
+           "proportion":0.2731265644972216,
+           "rate":0
+          },
+         "2":{
+           "proportion":0.6240663331191076,
+           "rate":1.602393763178926
+          }
+        },
+       "Test":{
+         "0":{
+           "omega":0.001302930023987118,
+           "proportion":0
+          },
+         "1":{
+           "omega":0.1031933592294761,
+           "proportion":1
+          },
+         "2":{
+           "omega":8.576720581388814,
+           "proportion":0
+          }
+        }
+      },
+     "display order":2,
+     "estimated parameters":51
+    },
+   "RELAX null":{
+     "AIC-c":2631.398136903762,
+     "Log Likelihood":-1264.216184256688,
+     "Rate Distributions":{
+       "Reference":{
+         "0":{
+           "omega":0.0009202604600865821,
+           "proportion":0
+          },
+         "1":{
+           "omega":0.1031933592294761,
+           "proportion":1
+          },
+         "2":{
+           "omega":6.383345972277694,
+           "proportion":0
+          }
+        },
+       "Synonymous site-to-site rates":{
+         "0":{
+           "proportion":0.1028071023836708,
+           "rate":0
+          },
+         "1":{
+           "proportion":0.2731265644972216,
+           "rate":0
+          },
+         "2":{
+           "proportion":0.6240663331191076,
+           "rate":1.602393763178926
+          }
+        },
+       "Test":{
+         "0":{
+           "omega":0.0009202604600865821,
+           "proportion":0
+          },
+         "1":{
+           "omega":0.1031933592294761,
+           "proportion":1
+          },
+         "2":{
+           "omega":6.383345972277694,
+           "proportion":0
+          }
+        }
+      },
+     "display order":3,
+     "estimated parameters":51
+    },
+   "RELAX partitioned descriptive":{
+     "AIC-c":2631.398136903762,
+     "Log Likelihood":-1264.216184256688,
+     "Rate Distributions":{
+       "Reference":{
+         "0":{
+           "omega":0.001301231657587401,
+           "proportion":0
+          },
+         "1":{
+           "omega":0.1031933592294761,
+           "proportion":1
+          },
+         "2":{
+           "omega":4.887275920254218,
+           "proportion":0
+          }
+        },
+       "Test":{
+         "0":{
+           "omega":0.0009202604600865821,
+           "proportion":0
+          },
+         "1":{
+           "omega":0.1031933592294761,
+           "proportion":1
+          },
+         "2":{
+           "omega":6.42859661794165,
+           "proportion":0
+          }
+        }
+      },
+     "display order":5,
+     "estimated parameters":51
+    }
+  },
+ "input":{
+   "file name":"/home/hverdonk/work/9a/2484881ea918aa78ea413bf4c55d01/GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308671.1_10-nodups.fasta",
+   "number of sequences":22,
+   "number of sites":252,
+   "partition count":1,
+   "trees":{
+     "0":"(PV792032_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds,PV792400_1_Influenza_A_virus_A_cattle_ID_25_012902_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds,(PV792536_1_Influenza_A_virus_A_cattle_ID_25_012952_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds,(PV218540_1_Influenza_A_virus_A_Turkey_OH_25_001341_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds,(PV792040_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds,PV792048_1_Influenza_A_virus_A_Duck_NY_25_013275_004_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds)Node24,(PV218292_1_Influenza_A_virus_A_Duck_IL_25_000617_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds,PV218196_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds,PV218268_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_010_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds,PV218284_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds,PV218372_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds)Node27,PV218236_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_005_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds,PV218332_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds,PV336655_1_Influenza_A_virus_A_Common_Raven_CA_25_003340_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds,PV520594_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds,PV218252_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_007_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds,(PV218204_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds,PV218276_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_011_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds)Node16,PV218228_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds)Node6)Node4,PV218908_1_Influenza_A_virus_A_cattle_CA_25_001132_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds,PV218900_1_Influenza_A_virus_A_cattle_CA_25_000605_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds,PV218924_1_Influenza_A_virus_A_cattle_CA_25_001525_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds)"
+    }
+  },
+ "runtime":"2.5.73",
+ "test results":{
+   "LRT":0,
+   "p-value":1,
+   "relaxation or intensification parameter":1
+  },
+ "tested":{
+   "0":{
+     "Node16":"Reference",
+     "Node24":"Reference",
+     "Node27":"Reference",
+     "Node4":"Reference",
+     "Node6":"Reference",
+     "PV218196_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV218204_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV218228_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV218236_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_005_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV218252_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_007_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV218268_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_010_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV218276_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_011_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV218284_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV218292_1_Influenza_A_virus_A_Duck_IL_25_000617_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV218332_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV218372_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV218540_1_Influenza_A_virus_A_Turkey_OH_25_001341_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV218900_1_Influenza_A_virus_A_cattle_CA_25_000605_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV218908_1_Influenza_A_virus_A_cattle_CA_25_001132_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV218924_1_Influenza_A_virus_A_cattle_CA_25_001525_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV336655_1_Influenza_A_virus_A_Common_Raven_CA_25_003340_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV520594_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV792032_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV792040_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV792048_1_Influenza_A_virus_A_Duck_NY_25_013275_004_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV792400_1_Influenza_A_virus_A_cattle_ID_25_012902_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference",
+     "PV792536_1_Influenza_A_virus_A_cattle_ID_25_012952_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds":"Reference"
+    }
+  },
+ "timers":{
+   "General descriptive model fitting":{
+     "order":2,
+     "timer":47
+    },
+   "Overall":{
+     "order":0,
+     "timer":161
+    },
+   "Preliminary model fitting":{
+     "order":1,
+     "timer":3
+    },
+   "RELAX alternative model fitting":{
+     "order":3,
+     "timer":1754426576
+    },
+   "RELAX null model fitting":{
+     "order":4,
+     "timer":5
+    },
+   "RELAX partitioned descriptive":{
+     "order":5,
+     "timer":5
+    }
+  }
+}

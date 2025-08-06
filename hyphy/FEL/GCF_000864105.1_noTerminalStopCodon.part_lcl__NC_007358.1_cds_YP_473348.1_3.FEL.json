@@ -1,0 +1,359 @@
+{
+ "MLE":{
+   "content":{
+     "0":      [
+[0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [6.73706187647136e-06, 11.22285238565733, 6.0625120134232, 1.175285743287441, 0.2783178184377028, 0.02491392295264978],
+      [0, 0, 0, 0, 1, 0],
+      [5.267586386591137e-06, 3.689139410139828e-06, 5.888258617983938e-08, -6.751200551491365e-06, 1, 0.1044223076620559],
+      [5.446610961971359e-05, 15.08950173157598, 8.229274255393314, 1.001933551834117, 0.3168430968621886, 0.03381824334547519],
+      [6.673037902841149e-07, 142.6882275066021, 20.73848325583424, 4.770567615154206, 0.0289502793274008, 0.08522489778328766],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [41.87254071439757, 6.292181435573054e-08, 16.34440177437308, 1.29473489000573, 0.2551772009431718, 0.06716739857541421],
+      [9.309294397564817e-05, 18.00256786368145, 6.393078155555343, 1.880115375228609, 0.1703210352383626, 0.02627238576738703],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [6.985044190540218e-09, 3.927673955398418e-05, 3.292728680043756e-07, -5.455983215441051e-06, 1, 0.168746317466683],
+      [1.649943600175107e-06, 17.60572472763033, 7.13632859353274, 1.559728368122775, 0.2117049968919388, 0.0293267770564022],
+      [0, 0, 0, 0, 1, 0],
+      [6.540863136256931e-06, 19.81920312004936, 7.808589367613673, 1.600662364761217, 0.2058093693148753, 0.03208943597643886],
+      [5.689790920417294e-06, 17.56757558987237, 7.898324978069201, 1.411825787357143, 0.2347535385602935, 0.03245820505115037],
+      [1.196758948601208e-06, 11.80680898556889, 6.190746931893291, 1.194306652748631, 0.2744625715933243, 0.02544090468637318],
+      [3.033731622902608e-05, 5.309229703939645e-07, 1.885706522612372e-07, -5.684110192305525e-06, 1, 0.1591425098395149],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [32.07407918769996, 0.06029693855992391, 17.86515480678154, 2.029363109944546, 0.1542852502971042, 0.07341704145213418],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0.0001981992349622286, 10.74085465802246, 6.092241635577894, 1.077817803090273, 0.2991862417622758, 0.02503609826602991],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [4.267388366118249e-09, 19.85477677233371, 10.14843518789049, 1.144706166010364, 0.2846600828130397, 0.04170504418481875],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [4.918479783877333e-05, 9.842467333452284, 6.748791647011767, 0.6992666847018967, 0.4030302086057972, 0.02773419209093329],
+      [23.3757097928363, 75.16313581194657, 35.95916339794503, 0.4324018335564581, 0.5108127525074265, 0.1477743568423784],
+      [7.805928702954417e-06, 15.11905869370734, 8.082615464454976, 0.8252105538411687, 0.3636611136495759, 0.03321554772777258],
+      [0, 0, 0, 0, 1, 0],
+      [1.407725131145121e-07, 16.04520278543572, 8.18387409723829, 0.8929337023621677, 0.3446835387948185, 0.03363167040555527],
+      [0, 0, 0, 0, 1, 0],
+      [3.382462587259012e-05, 76.14475901580791, 8.975358757557501, 0.9800772384197778, 0.3221797380410463, 0.03688428045797335],
+      [4.76917903396617e-05, 18.58315566391937, 10.19969389027354, 1.006643834966324, 0.3157082170460747, 0.04191569170307703],
+      [0.0001376474535707249, 0.0002125551559080333, 9.721688230820185e-07, -5.635907658252393e-05, 1, 0.4078092449284471],
+      [2.565033701274621e-05, 10.38398388312807, 5.816972889286239, 1.125716613599311, 0.2886908406424787, 0.02390487839871677],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [6.93936210067651e-05, 21.47366540777768, 8.052098441723045, 1.516166052655954, 0.2182006070548888, 0.03309013770058428],
+      [3.575375974742338e-05, 16.9989073702188, 7.39212372867624, 1.449797438495935, 0.228560458055459, 0.03037796840810985],
+      [0, 0, 0, 0, 1, 0],
+      [19.30836652046779, 51.2950823936291, 28.57112652346101, 0.3623365863019146, 0.5472114104209911, 0.1174131833787954],
+      [2.041037722961912e-05, 23.01342712006284, 12.55454278148753, 1.215202338068512, 0.2703042542461898, 0.05159295487707909],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [5.689790920417294e-06, 17.56757558987237, 7.898324978069201, 1.411825787357143, 0.2347535385602935, 0.03245820505115037],
+      [3.67965138471799e-05, 13.46181028376136, 7.295123445296837, 1.117703058134348, 0.2904135830878491, 0.02997934666239541],
+      [0, 0, 0, 0, 1, 0],
+      [4.267388366118249e-09, 19.85477677233371, 10.14843518789049, 1.144706166010364, 0.2846600828130397, 0.04170504418481875],
+      [0, 0, 0, 0, 1, 0],
+      [6.73706187647136e-06, 11.22285238565733, 6.0625120134232, 1.175285743287441, 0.2783178184377028, 0.02491392295264978],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [2.283943807061139e-06, 14.86771254136745, 5.546043016400353, 1.343036211258489, 0.2464992352571389, 0.02279149074421658],
+      [38.69827683996906, 1.067922743957432e-06, 6.989530187473031, 2.933069620892766, 0.08678234484305147, 0.02872350829438716],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [1.499249858418817e-05, 15.75974717752524, 6.241385720386297, 1.726762911215546, 0.188824832252066, 0.02564900496743661],
+      [0.0001026800967921965, 5.388215775331993e-06, 3.339861339531548e-07, -1.238606471076764e-05, 1, 0.09322602846819486],
+      [0.006077648650091841, 17.58661043273734, 9.863584468008693, 0.9667748147158122, 0.3254858500984733, 0.04053444858559858],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [0, 0, 0, 0, 1, 0],
+      [24.46420850128385, 16.28611787867666, 20.08091979619612, 0.05832369424691741, 0.8091652992797163, 0.08252263754842128] 
+      ]
+    },
+   "headers":    [
+["alpha", "Synonymous substitution rate at a site"],
+    ["beta", "Non-synonymous substitution rate at a site"],
+    ["alpha=beta", "The rate estimate under the neutral model"],
+    ["LRT", "Likelihood ratio test statistic for beta = alpha, versus beta &neq; alpha"],
+    ["p-value", "Asymptotic p-value for evidence of selection, i.e. beta &neq; alpha"],
+    ["Total branch length", "The total length of branches contributing to inference at this site, and used to scale dN-dS"] 
+    ]
+  },
+ "analysis":{
+   "authors":"Sergei L Kosakovsky Pond and Simon DW Frost",
+   "citation":"Not So Different After All: A Comparison of Methods for Detecting Amino Acid Sites Under Selection (2005). _Mol Biol Evol_ 22 (5): 1208-1222",
+   "contact":"spond@temple.edu",
+   "info":"FEL (Fixed Effects Likelihood)\n    estimates site-wise synonymous (&alpha;) and non-synonymous (&beta;) rates, and\n    uses a likelihood ratio test to determine if beta &neq; alpha at a site.\n    The estimates aggregate information over all branches,\n    so the signal is derived from\n    pervasive diversification or conservation. A subset of branches can be selected\n    for testing as well, in which case an additional (nuisance) parameter will be\n    inferred -- the non-synonymous rate on branches NOT selected for testing.\n    Multiple partitions within a NEXUS file are also supported\n    for recombination - aware analysis. Version 2.5 adds MH support.\n    ",
+   "requirements":"in-frame codon alignment and a phylogenetic tree",
+   "settings":{
+     "ci":0,
+     "multihit":"None",
+     "pvalue":0.1,
+     "resample":0,
+     "site-filter":{
+       "site-filter":null,
+       "site-save-filter":null
+      },
+     "srv":1
+    },
+   "version":"2.5"
+  },
+ "branch attributes":{
+   "0":{
+     "Node16":{
+       "Global MG94xREV":0.003968877473607288,
+       "Nucleotide GTR":0.003722625747145331
+      },
+     "Node3":{
+       "Global MG94xREV":0.1470060176327827,
+       "Nucleotide GTR":0.1292367282099403
+      },
+     "Node7":{
+       "Global MG94xREV":0.003969470643712481,
+       "Nucleotide GTR":0.003723186681295185
+      },
+     "PV218191_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "Global MG94xREV":0.003954462595069295,
+       "Nucleotide GTR":0.003722626242201195,
+       "original name":"PV218191_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds"
+      },
+     "PV218199_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "Global MG94xREV":0.003953312069043009,
+       "Nucleotide GTR":0.003722625417761841,
+       "original name":"PV218199_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds"
+      },
+     "PV218207_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_putative_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "Global MG94xREV":0.007964068702479097,
+       "Nucleotide GTR":0.007471211842525914,
+       "original name":"PV218207_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_putative_PB1_F2_protein_PB1_F2_genes_complete_cds"
+      },
+     "PV218223_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "Global MG94xREV":0.003953046017141907,
+       "Nucleotide GTR":0.003722625420431058,
+       "original name":"PV218223_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds"
+      },
+     "PV218383_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"PV218383_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds"
+      },
+     "PV218431_1_Influenza_A_virus_A_Turkey_OH_25_001328_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "Global MG94xREV":0.003941215917526178,
+       "Nucleotide GTR":0.003715630813521761,
+       "original name":"PV218431_1_Influenza_A_virus_A_Turkey_OH_25_001328_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds"
+      },
+     "PV520598_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"PV520598_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds"
+      },
+     "PV520601_1_Influenza_A_virus_A_cattle_Nevada_WD_210_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "Global MG94xREV":0.003947900123314458,
+       "Nucleotide GTR":0.003723757542678384,
+       "original name":"PV520601_1_Influenza_A_virus_A_cattle_Nevada_WD_210_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds"
+      },
+     "PV792035_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"PV792035_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds"
+      },
+     "PV792275_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"PV792275_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds"
+      },
+     "PV792531_1_Influenza_A_virus_A_cattle_ID_25_012952_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "Global MG94xREV":0.003885325286754035,
+       "Nucleotide GTR":0.0036858689170496,
+       "original name":"PV792531_1_Influenza_A_virus_A_cattle_ID_25_012952_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds"
+      }
+    },
+   "attributes":{
+     "Global MG94xREV":{
+       "attribute type":"branch length",
+       "display order":1
+      },
+     "Nucleotide GTR":{
+       "attribute type":"branch length",
+       "display order":0
+      },
+     "original name":{
+       "attribute type":"node label",
+       "display order":-1
+      }
+    }
+  },
+ "data partitions":{
+   "0":{
+     "coverage":      [
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89] 
+      ],
+     "name":"fel.filter.default"
+    }
+  },
+ "fits":{
+   "Global MG94xREV":{
+     "AIC-c":1108.279861087788,
+     "Equilibrium frequencies":      [
+[0.05885356919630678],
+      [0.03080227223678203],
+      [0.06349208691055573],
+      [0.02163758342388387],
+      [0.02411007172436594],
+      [0.0126185208993045],
+      [0.02601029623602227],
+      [0.008864096016873839],
+      [0.02340164948928248],
+      [0.01224775299445839],
+      [0.02524604001955967],
+      [0.00860364375509471],
+      [0.02078694565588374],
+      [0.01087929190714068],
+      [0.02242525947383307],
+      [0.007642344838198016],
+      [0.04330908722035724],
+      [0.02266673564755855],
+      [0.04672247354514424],
+      [0.01592263647795125],
+      [0.01774208792191925],
+      [0.009285700590172075],
+      [0.01914042264039795],
+      [0.006522899337573237],
+      [0.01722077509778563],
+      [0.009012860391204211],
+      [0.01857802277936189],
+      [0.006331238069171533],
+      [0.01529667027419619],
+      [0.008005839043176494],
+      [0.01650227049530116],
+      [0.005623838684474123],
+      [0.02427530231462094],
+      [0.01270499785715734],
+      [0.02618854940129353],
+      [0.008924843236280277],
+      [0.009944669251646767],
+      [0.005204755017869018],
+      [0.01072845390763336],
+      [0.003656169260316379],
+      [0.009652466685890915],
+      [0.005051824565194572],
+      [0.01041322152744286],
+      [0.003548740645883051],
+      [0.008573981100637135],
+      [0.004487376103460211],
+      [0.009249735583500967],
+      [0.003152234161381696],
+      [0.02507200857932751],
+      [0.01761226162372906],
+      [0.01962478353787372],
+      [0.01027104954510453],
+      [0.02117150206865809],
+      [0.007215074578740287],
+      [0.009969257001366782],
+      [0.0205494233379509],
+      [0.007003075240131953],
+      [0.01691987122949925],
+      [0.008855375926037067],
+      [0.0182534033073765],
+      [0.006220610410704483] 
+      ],
+     "Log Likelihood":-523.1701703770533,
+     "Rate Distributions":{
+       "non-synonymous/synonymous rate ratio for *background*":        [
+[1.748532718774347, 1] 
+        ],
+       "non-synonymous/synonymous rate ratio for *test*":        [
+[4.615877676192659, 1] 
+        ]
+      },
+     "display order":1,
+     "estimated parameters":30
+    },
+   "Nucleotide GTR":{
+     "AIC-c":1143.473958321006,
+     "Equilibrium frequencies":      [
+[0.3686868686868687],
+      [0.2289562289562289],
+      [0.2323232323232323],
+      [0.17003367003367] 
+      ],
+     "Log Likelihood":-544.4800111115569,
+     "Rate Distributions":{
+       "Substitution rate from nucleotide A to nucleotide C":0.04517627168408875,
+       "Substitution rate from nucleotide A to nucleotide G":1,
+       "Substitution rate from nucleotide A to nucleotide T":0.04967291450576772,
+       "Substitution rate from nucleotide C to nucleotide G":0.06446609882225161,
+       "Substitution rate from nucleotide C to nucleotide T":1.634932934133292,
+       "Substitution rate from nucleotide G to nucleotide T":0.3266774459583965
+      },
+     "display order":0,
+     "estimated parameters":27
+    }
+  },
+ "input":{
+   "file name":"/home/hverdonk/work/62/707c414231370b3199b3bea84c3209/GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007358.1_cds_YP_473348.1_3-nodups.fasta",
+   "number of sequences":11,
+   "number of sites":90,
+   "partition count":1,
+   "trees":{
+     "0":"(PV792275_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds,PV792531_1_Influenza_A_virus_A_cattle_ID_25_012952_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds,((PV218207_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_putative_PB1_F2_protein_PB1_F2_genes_complete_cds,PV218223_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds,(PV218383_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds,PV218431_1_Influenza_A_virus_A_Turkey_OH_25_001328_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds)Node16,PV792035_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds,PV218191_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds,PV218199_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds)Node7,PV520598_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds,PV520601_1_Influenza_A_virus_A_cattle_Nevada_WD_210_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds)Node3)"
+    }
+  },
+ "runtime":"2.5.73",
+ "tested":{
+   "0":{
+     "Node16":"test",
+     "Node3":"test",
+     "Node7":"test",
+     "PV218191_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV218199_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV218207_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_putative_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV218223_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV218383_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV218431_1_Influenza_A_virus_A_Turkey_OH_25_001328_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV520598_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV520601_1_Influenza_A_virus_A_cattle_Nevada_WD_210_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV792035_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV792275_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV792531_1_Influenza_A_virus_A_cattle_ID_25_012952_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background"
+    }
+  },
+ "timers":{
+   "FEL analysis":{
+     "order":2,
+     "timer":12
+    },
+   "Model fitting":{
+     "order":1,
+     "timer":3
+    },
+   "Total time":{
+     "order":0,
+     "timer":15
+    }
+  }
+}

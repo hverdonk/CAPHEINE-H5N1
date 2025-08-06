@@ -1,0 +1,803 @@
+{
+ "Evidence Ratios":{
+   "constrained":    [
+[0.6383205724322664, 0.7548510378058185, 0.8842873129940861, 3.205857578952297, 0.8842873129940861, 0.6890981972632974, 3.342504300324779, 4.377008204775031, 0.7673051650530295, 0.8014152122448052, 0.8842873129940857, 3.524503283154993, 0.8014152122448052, 0.7548510378058185, 0.7233864649818855, 0.7590325150596269, 0.7950314810632897, 3.548590401693295, 0.8842873129940861, 3.579737950129443, 3.514998470627735, 3.233983709384268, 0.7950314810632897, 0.6382590573529178, 0.8990811819323625, 0.8990811819323625, 0.8103612117985177, 0.8842873129940861, 0.843574836205259, 0.6981640384646803, 3.151683035356867, 0.7233864649818855, 0.6647177129949478, 0.8320003930928062, 0.7096909298794115, 3.621319991539264, 0.8990811819323625, 0.7961274917973296, 0.6383205724322669, 3.073558215516034, 3.325708166696598, 3.136820753571086, 0.8192041490412142, 3.214860438757226, 0.8014152122448052, 3.020999395653948, 3.555638279723111, 0.8990811819323618, 3.148089344553585, 0.6890981972632968, 0.6383205724322669, 0.7233864649818855, 0.843574836205259, 3.473763456391503, 3.53038803027795, 0.6950758350280214, 4.500400992820502, 3.67553062500356, 0.8308772901184023, 0.8990811819323625, 0.7673051650530295, 0.664348273997886, 0.7009202089192627, 0.7961274917973296, 3.514998470627735, 3.367355610861969, 0.6972833819164257, 3.621319991539264, 0.8842873129940861, 3.205857578952297, 0.7007472531016729, 0.7961274917973296, 0.843574836205259, 0.8019768373040569, 3.084052914997518, 0.6627020019808998, 0.7961274917973296, 0.843574836205259, 0.7642777012798841, 0.7673051650530295, 0.8308772901184023, 3.449104154181586, 0.6597593706691492, 3.523699490386835, 0.843574836205259, 0.8990811819323625, 0.7433783542762861, 0.7673051650530295, 0.8014152122448052, 3.49304384735966] 
+    ],
+   "optimized null":    [
+[0.8549485490167008, 0.9862765722660134, 1.057419974801851, 1.441243742833145, 1.057419974801851, 1.020653867195769, 1.350285432141981, 1.186502031638637, 0.9248992204539052, 1.024086688089979, 1.086764462676617, 1.535431797576476, 1.024086688089979, 0.9862765722660134, 0.9480832220912802, 0.9679023315214377, 1.069081849931862, 1.483262142435031, 1.057419974801851, 1.511647501995947, 1.497339282548952, 1.445286755817291, 1.067439525705727, 0.9292069047879065, 1.065846327753824, 1.065846327753824, 0.2715642676413014, 1.057419974801851, 1.0355322540103, 0.9893681538853899, 1.442939893919228, 0.9480832220912802, 0.9327444491375203, 0.9908516815378593, 0.9843807341978525, 1.416946521103857, 1.065846327753824, 1.158597949879029, 0.8460088198870055, 1.388919021131311, 0.4395899876084278, 1.389138346296712, 1.197484834284827, 1.003008608696751, 1.024086688089979, 1.201371885619464, 1.448244265345021, 1.127562231719269, 1.41408287598151, 0.9676877787320403, 0.8460088198870055, 0.9480832220912802, 1.0355322540103, 1.509199693336825, 1.479555036139131, 0.9874067904270646, 0.3645056704741785, 1.117689383773412, 1.028310025666401, 1.065846327753824, 0.9248992204539052, 0.9957249960538775, 0.9523722228325547, 1.158597949879029, 1.497339282548952, 1.474625561113737, 0.9496350064739771, 1.416946521103857, 1.057419974801851, 1.441243742833145, 1.01699064575222, 1.158597949879029, 1.0355322540103, 1.059966532862449, 1.085771516368919, 0.9186346556611672, 1.158597949879029, 1.0355322540103, 1.009894980841788, 0.9248992204539052, 1.028310025666401, 1.533464605644413, 0.9357669710846592, 1.44373507881425, 1.0355322540103, 1.065846327753824, 0.9793558274091426, 0.9248992204539052, 1.024086688089979, 0.456464490365839] 
+    ]
+  },
+ "Site Log Likelihood":{
+   "constrained":    [
+[-8.710538357980763, -3.947468868908852, -3.204236787483613, -7.63792528025196, -3.204236787483613, -10.85827633293994, -7.205375019271367, -10.42141106104975, -4.030158932503347, -3.926287103719051, -9.024033485697965, -7.475719585430142, -3.926287103719051, -3.947468868908852, -4.013528693830441, -4.714210308866412, -9.89829871593799, -8.208951060454302, -3.204236787483613, -6.697653290965627, -6.625625866454993, -7.60688912518459, -9.20747390603765, -4.955425600105727, -3.278274712172511, -3.278274712172511, -11.00680931338058, -3.204236787483613, -3.006991176735379, -4.238512635423452, -7.538667822687583, -4.013528693830441, -5.101210658708013, -3.625750059690732, -4.205182431218592, -7.818215208106173, -3.278274712172511, -4.283782471284733, -4.042062142095007, -8.272151472748158, -14.82457081973649, -7.564477840694187, -4.387932034027149, -9.042538595419487, -3.926287103719051, -10.75346459179386, -7.285239054386386, -9.151629180483358, -8.084122178529467, -4.976823074704019, -4.042062142095007, -4.013528693830441, -3.006991176735379, -6.900962227127311, -8.221272162707951, -4.807325096519924, -15.19775390926754, -9.193588989834806, -2.932929084779509, -3.278274712172511, -4.030158932503347, -5.491445716688347, -4.825810644927646, -4.283782471284733, -6.625625866454993, -7.71121058983707, -4.929080121446901, -7.818215208106173, -3.204236787483613, -7.63792528025196, -5.216045515469599, -4.283782471284733, -3.006991176735379, -4.931561728209995, -10.49339777347763, -12.01169315371931, -4.283782471284733, -3.006991176735379, -4.285889239046011, -4.030158932503347, -2.932929084779509, -7.405661114883081, -10.38311138793114, -7.316728025246855, -3.006991176735379, -3.278274712172511, -3.873401383199019, -4.030158932503347, -3.926287103719051, -10.84625966753707] 
+    ],
+   "optimized null":    [
+[-9.0027390267391, -4.214885254571326, -3.383041997063388, -6.838452101440691, -3.383041997063388, -11.25109129782064, -6.298970704037028, -9.116055137510259, -4.216959122593674, -4.171464381963988, -9.230211639138357, -6.644791714509271, -4.171464381963988, -4.214885254571326, -4.284027370187729, -4.957296878045129, -10.19447247816108, -7.336644418259946, -3.383041997063388, -5.835563808496924, -5.772276497698674, -6.801482150147296, -9.502110286450907, -5.331012784931539, -3.448425815799371, -3.448425815799371, -9.913528049213472, -3.383041997063388, -3.212013386233385, -4.58712505912065, -6.757413840965713, -4.284027370187729, -5.439979460922685, -3.800482004080115, -4.532365613201042, -6.879880829253726, -3.448425815799371, -4.658989021870664, -4.323751305266152, -7.477841316399153, -12.80097535298805, -6.749951712737806, -4.767577379731719, -7.877758739969765, -4.171464381963988, -9.831341031248931, -6.387056434294731, -9.378069111888784, -7.28380764378307, -5.316348785034762, -4.323751305266152, -4.284027370187729, -3.212013386233385, -6.067303157236077, -7.351605765526443, -5.158386244638891, -12.68437423614764, -8.00315498392203, -3.146118948084608, -3.448425815799371, -4.216959122593674, -5.896110306765756, -5.132372537768004, -4.658989021870664, -5.772276497698674, -6.885486939396175, -5.237965926604738, -6.879880829253726, -3.383041997063388, -6.838452101440691, -5.588501443495418, -4.658989021870664, -3.212013386233385, -5.210474615763968, -9.449443969305525, -12.33825623147075, -4.658989021870664, -3.212013386233385, -4.564559657637436, -4.216959122593674, -3.146118948084608, -6.595076206552537, -10.73260269224984, -6.424450156168801, -3.212013386233385, -3.448425815799371, -4.149091279521585, -4.216959122593674, -4.171464381963988, -8.811241780183325] 
+    ],
+   "unconstrained":    [
+[-9.159453015183814, -4.228703719027797, -3.32721004193475, -6.472945650335093, -3.32721004193475, -11.23064782963649, -5.998654702718838, -8.945045628322521, -4.295029620859605, -4.147663202591947, -9.147006740149102, -6.215980071675165, -4.147663202591947, -4.228703719027797, -4.33734036375178, -4.989920972029751, -10.12767228222806, -6.942400605765673, -3.32721004193475, -5.422363691520009, -5.368586776291255, -6.433174401338507, -9.43684747232772, -5.404436632149737, -3.38465665827689, -3.38465665827689, -11.21708450360615, -3.32721004193475, -3.177097836617466, -4.597813827127191, -6.390731215597141, -4.33734036375178, -5.509603478893339, -3.809672425384457, -4.548108144969282, -6.531376610186213, -3.38465665827689, -4.511778411673089, -4.490976799298058, -7.14931555444791, -13.62288818584107, -6.421268052559962, -4.587353993989293, -7.874754648078892, -4.147663202591947, -9.647876889437695, -6.016704463021407, -9.258011126587737, -6.937326467006792, -5.349194571400575, -4.490976799298058, -4.33734036375178, -3.177097836617466, -5.655723651323928, -6.959864374212414, -5.171059420741662, -13.69358740694562, -7.891891479836844, -3.118202245130611, -3.38465665827689, -4.295029620859605, -5.900394474667872, -5.181171868005261, -4.511778411673089, -5.368586776291255, -6.497082838703545, -5.289643498529047, -6.531376610186213, -3.32721004193475, -6.472945650335093, -5.571653524355052, -4.511778411673089, -3.177097836617466, -5.152237280909698, -9.367153160012748, -12.42312301266585, -4.511778411673089, -3.177097836617466, -4.554713311555063, -4.295029620859605, -3.118202245130611, -6.167546583013337, -10.79899148826709, -6.057216595954674, -3.177097836617466, -3.38465665827689, -4.169951521938197, -4.295029620859605, -4.147663202591947, -9.595486148868273] 
+    ]
+  },
+ "Synonymous site-posteriors":  [
+[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.9999999999999999, 1, 1, 1, 1, 1, 1, 0.9999999999999999, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0.9999999999999999, 0.9999999999999999, 1, 1, 1, 1, 1, 1, 1, 0.9999999999999999, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] 
+  ],
+ "analysis":{
+   "authors":"Sergei L Kosakovsky Pond",
+   "citation":"*Gene-wide identification of episodic selection*, Mol Biol Evol. 32(5):1365-71, *Synonymous Site-to-Site Substitution Rate Variation Dramatically Inflates False Positive Rates of Selection Analyses: Ignore at Your Own Peril*, Mol Biol Evol. 37(8):2430-2439",
+   "contact":"spond@temple.edu",
+   "info":"BUSTED (branch-site unrestricted statistical test of episodic diversification) uses a random effects branch-site model fitted  jointly to all or a subset of tree branches in order to test for alignment-wide evidence of episodic diversifying selection. Assuming there is evidence of positive selection (i.e. there is an omega > 1),  BUSTED will also perform a quick evidence-ratio style analysis to explore which individual sites may have been subject to selection. v2.0 adds support for synonymous rate variation, and relaxes the test statistic to 0.5 (chi^2_0 + chi^2_2).\n                               \nVersion 2.1 adds a grid search for the initial starting point.\n\nVersion 2.2 changes the grid search to LHC, and adds an initial search phase to use adaptive Nedler-Mead. \n\nVersion 3.0 implements the option for branch-site variation in synonymous substitution rates. \n\nVersion 3.1 adds HMM auto-correlation option for SRV, and binds SRV distributions for multiple branch sets.\n\nVersion 4.0 adds support for multiple hits (MH), ancestral state reconstruction saved to JSON, and profiling of branch-site level support for selection / multiple hits.\n\nVersion 4.2 adds calculation of MH-attributable fractions of substitutions.\n\nVersion 4.5 adds an 'error absorption' component \n\nVersion 4.6 adds support for MSS-type models\n",
+   "requirements":"in-frame codon alignment and a phylogenetic tree (optionally annotated with {})",
+   "settings":{
+     "error-sink":1,
+     "mss":"No",
+     "multiple-hit":"None",
+     "srv":"Yes"
+    },
+   "version":"4.6"
+  },
+ "background":1,
+ "branch attributes":{
+   "0":{
+     "Node16":{
+       "MG94xREV with separate rates for branch sets":0.003969403157580167,
+       "Nucleotide GTR":0.003722625747145331,
+       "Posterior prob omega class":        [
+[0],
+        [0],
+        [0],
+        [1] 
+        ],
+       "Posterior prob omega class by site":        [
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1] 
+        ],
+       "constrained":0.003940749654444404,
+       "unconstrained":0.003971789289521714
+      },
+     "Node3":{
+       "MG94xREV with separate rates for branch sets":0.147050982834383,
+       "Nucleotide GTR":0.1292367282099403,
+       "Posterior prob omega class":        [
+[0],
+        [0],
+        [0],
+        [1] 
+        ],
+       "Posterior prob omega class by site":        [
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1] 
+        ],
+       "constrained":0.1417120475615604,
+       "unconstrained":0.1472684698785029
+      },
+     "Node7":{
+       "MG94xREV with separate rates for branch sets":0.003968063324825687,
+       "Nucleotide GTR":0.003723186681295185,
+       "Posterior prob omega class":        [
+[0],
+        [0],
+        [0],
+        [1] 
+        ],
+       "Posterior prob omega class by site":        [
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1] 
+        ],
+       "constrained":0.003947113045687304,
+       "unconstrained":0.003968754530536489
+      },
+     "PV218191_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "MG94xREV with separate rates for branch sets":0.003955613438658971,
+       "Nucleotide GTR":0.003722626242201195,
+       "Posterior prob omega class":null,
+       "constrained":0.003945600625625636,
+       "original name":"PV218191_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds",
+       "unconstrained":0.003950831816202605
+      },
+     "PV218199_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "MG94xREV with separate rates for branch sets":0.003954366683391363,
+       "Nucleotide GTR":0.003722625417761841,
+       "Posterior prob omega class":null,
+       "constrained":0.003955489448814122,
+       "original name":"PV218199_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds",
+       "unconstrained":0.003967475952183191
+      },
+     "PV218207_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_putative_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "MG94xREV with separate rates for branch sets":0.007960489338717574,
+       "Nucleotide GTR":0.007471211842525914,
+       "Posterior prob omega class":null,
+       "constrained":0.007942496695262031,
+       "original name":"PV218207_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_putative_PB1_F2_protein_PB1_F2_genes_complete_cds",
+       "unconstrained":0.007962699534581596
+      },
+     "PV218223_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "MG94xREV with separate rates for branch sets":0.003954080723500729,
+       "Nucleotide GTR":0.003722625420431058,
+       "Posterior prob omega class":null,
+       "constrained":0.003949210009440895,
+       "original name":"PV218223_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds",
+       "unconstrained":0.003958219016824425
+      },
+     "PV218383_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":1e-06,
+       "Posterior prob omega class":null,
+       "constrained":0,
+       "original name":"PV218383_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds",
+       "unconstrained":0
+      },
+     "PV218431_1_Influenza_A_virus_A_Turkey_OH_25_001328_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "MG94xREV with separate rates for branch sets":0.003942250045063209,
+       "Nucleotide GTR":0.003715630813521761,
+       "Posterior prob omega class":null,
+       "constrained":0.003952849902706818,
+       "original name":"PV218431_1_Influenza_A_virus_A_Turkey_OH_25_001328_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds",
+       "unconstrained":0.003969161585366115
+      },
+     "PV520598_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":1e-06,
+       "Posterior prob omega class":null,
+       "constrained":0,
+       "original name":"PV520598_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds",
+       "unconstrained":0
+      },
+     "PV520601_1_Influenza_A_virus_A_cattle_Nevada_WD_210_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "MG94xREV with separate rates for branch sets":0.003954844646296324,
+       "Nucleotide GTR":0.003723757542678384,
+       "Posterior prob omega class":null,
+       "constrained":0.003961092674306759,
+       "original name":"PV520601_1_Influenza_A_virus_A_cattle_Nevada_WD_210_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds",
+       "unconstrained":0.003976381213768811
+      },
+     "PV792035_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":1e-06,
+       "Posterior prob omega class":null,
+       "constrained":3.355929825977522e-23,
+       "original name":"PV792035_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds",
+       "unconstrained":2.051644172881779e-20
+      },
+     "PV792275_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "MG94xREV with separate rates for branch sets":0,
+       "Nucleotide GTR":1e-06,
+       "Posterior prob omega class":null,
+       "constrained":0,
+       "original name":"PV792275_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds",
+       "unconstrained":0
+      },
+     "PV792531_1_Influenza_A_virus_A_cattle_ID_25_012952_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":{
+       "MG94xREV with separate rates for branch sets":0.003885688499698541,
+       "Nucleotide GTR":0.0036858689170496,
+       "Posterior prob omega class":null,
+       "constrained":0.003872779203924267,
+       "original name":"PV792531_1_Influenza_A_virus_A_cattle_ID_25_012952_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds",
+       "unconstrained":0.003884324264608836
+      }
+    },
+   "attributes":{
+     "MG94xREV with separate rates for branch sets":{
+       "attribute type":"branch length",
+       "display order":1
+      },
+     "Nucleotide GTR":{
+       "attribute type":"branch length",
+       "display order":0
+      },
+     "Posterior prob omega class":{
+       "attribute type":"branch annotations",
+       "display order":4
+      },
+     "Posterior prob omega class by site":{
+       "attribute type":"branch annotations",
+       "display order":5
+      },
+     "constrained":{
+       "attribute type":"branch length",
+       "display order":1
+      },
+     "original name":{
+       "attribute type":"node label",
+       "display order":0
+      },
+     "unconstrained":{
+       "attribute type":"branch length",
+       "display order":0
+      }
+    }
+  },
+ "data partitions":{
+   "0":{
+     "coverage":      [
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89] 
+      ],
+     "name":"busted.filter.default"
+    }
+  },
+ "fits":{
+   "Constrained model":{
+     "AIC-c":1153.174146002799,
+     "Log Likelihood":-528.2943900745705,
+     "Rate Distributions":{
+       "Background":{
+         "0":{
+           "omega":101.2724929625109,
+           "proportion":0
+          },
+         "1":{
+           "omega":0.9991360679789323,
+           "proportion":0
+          },
+         "2":{
+           "omega":1,
+           "proportion":0.709226601298919
+          },
+         "3":{
+           "omega":3.39114200024984,
+           "proportion":0.290773398701081
+          }
+        },
+       "Synonymous site-to-site rates":{
+         "0":{
+           "proportion":0,
+           "rate":0.9395249287127979
+          },
+         "1":{
+           "proportion":0,
+           "rate":0.9698920733543046
+          },
+         "2":{
+           "proportion":1,
+           "rate":1
+          }
+        },
+       "Test":{
+         "0":{
+           "omega":103.4825517402668,
+           "proportion":0
+          },
+         "1":{
+           "omega":0.9205817588866335,
+           "proportion":0
+          },
+         "2":{
+           "omega":0.9343008867776271,
+           "proportion":0
+          },
+         "3":{
+           "omega":1,
+           "proportion":1
+          }
+        }
+      },
+     "display order":3,
+     "estimated parameters":46
+    },
+   "MG94xREV with separate rates for branch sets":{
+     "AIC-c":1108.279697647464,
+     "Equilibrium frequencies":      [
+[0.05885356919630678],
+      [0.03080227223678203],
+      [0.06349208691055573],
+      [0.02163758342388387],
+      [0.02411007172436594],
+      [0.0126185208993045],
+      [0.02601029623602227],
+      [0.008864096016873839],
+      [0.02340164948928248],
+      [0.01224775299445839],
+      [0.02524604001955967],
+      [0.00860364375509471],
+      [0.02078694565588374],
+      [0.01087929190714068],
+      [0.02242525947383307],
+      [0.007642344838198016],
+      [0.04330908722035724],
+      [0.02266673564755855],
+      [0.04672247354514424],
+      [0.01592263647795125],
+      [0.01774208792191925],
+      [0.009285700590172075],
+      [0.01914042264039795],
+      [0.006522899337573237],
+      [0.01722077509778563],
+      [0.009012860391204211],
+      [0.01857802277936189],
+      [0.006331238069171533],
+      [0.01529667027419619],
+      [0.008005839043176494],
+      [0.01650227049530116],
+      [0.005623838684474123],
+      [0.02427530231462094],
+      [0.01270499785715734],
+      [0.02618854940129353],
+      [0.008924843236280277],
+      [0.009944669251646767],
+      [0.005204755017869018],
+      [0.01072845390763336],
+      [0.003656169260316379],
+      [0.009652466685890915],
+      [0.005051824565194572],
+      [0.01041322152744286],
+      [0.003548740645883051],
+      [0.008573981100637135],
+      [0.004487376103460211],
+      [0.009249735583500967],
+      [0.003152234161381696],
+      [0.02507200857932751],
+      [0.01761226162372906],
+      [0.01962478353787372],
+      [0.01027104954510453],
+      [0.02117150206865809],
+      [0.007215074578740287],
+      [0.009969257001366782],
+      [0.0205494233379509],
+      [0.007003075240131953],
+      [0.01691987122949925],
+      [0.008855375926037067],
+      [0.0182534033073765],
+      [0.006220610410704483] 
+      ],
+     "Log Likelihood":-523.1700886568917,
+     "Rate Distributions":{
+       "non-synonymous/synonymous rate ratio for *background*":        [
+[1.757093956737904, 1] 
+        ],
+       "non-synonymous/synonymous rate ratio for *test*":        [
+[4.635256675794595, 1] 
+        ]
+      },
+     "display order":1,
+     "estimated parameters":30
+    },
+   "Nucleotide GTR":{
+     "AIC-c":1143.473958321006,
+     "Equilibrium frequencies":      [
+[0.3686868686868687],
+      [0.2289562289562289],
+      [0.2323232323232323],
+      [0.17003367003367] 
+      ],
+     "Log Likelihood":-544.4800111115569,
+     "Rate Distributions":{
+       "Substitution rate from nucleotide A to nucleotide C":0.04517627168408875,
+       "Substitution rate from nucleotide A to nucleotide G":1,
+       "Substitution rate from nucleotide A to nucleotide T":0.04967291450576772,
+       "Substitution rate from nucleotide C to nucleotide G":0.06446609882225161,
+       "Substitution rate from nucleotide C to nucleotide T":1.634932934133292,
+       "Substitution rate from nucleotide G to nucleotide T":0.3266774459583965
+      },
+     "display order":0,
+     "estimated parameters":27
+    },
+   "Unconstrained model":{
+     "AIC-c":1145.162040017073,
+     "Log Likelihood":-523.186115549938,
+     "Rate Distributions":{
+       "Background":{
+         "0":{
+           "omega":102.5992567549809,
+           "proportion":0
+          },
+         "1":{
+           "omega":0.9316921875706867,
+           "proportion":0
+          },
+         "2":{
+           "omega":1,
+           "proportion":0.7683000087495857
+          },
+         "3":{
+           "omega":4.229737662893457,
+           "proportion":0.2316999912504143
+          }
+        },
+       "Synonymous site-to-site rates":{
+         "0":{
+           "proportion":0,
+           "rate":0.9365607698847808
+          },
+         "1":{
+           "proportion":0,
+           "rate":0.9683787632688777
+          },
+         "2":{
+           "proportion":1,
+           "rate":1
+          }
+        },
+       "Test":{
+         "0":{
+           "omega":118.2818829386854,
+           "proportion":0
+          },
+         "1":{
+           "omega":0.9717589320993066,
+           "proportion":0
+          },
+         "2":{
+           "omega":0.9862407366104119,
+           "proportion":0
+          },
+         "3":{
+           "omega":4.686179065465335,
+           "proportion":1
+          }
+        }
+      },
+     "display order":2,
+     "estimated parameters":47
+    }
+  },
+ "input":{
+   "file name":"/home/hverdonk/work/55/daf87a2f5ceabdef795161d62e6121/GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007358.1_cds_YP_473348.1_3-nodups.fasta",
+   "number of sequences":11,
+   "number of sites":90,
+   "partition count":1,
+   "trees":{
+     "0":"(PV792275_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds,PV792531_1_Influenza_A_virus_A_cattle_ID_25_012952_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds,((PV218207_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_putative_PB1_F2_protein_PB1_F2_genes_complete_cds,PV218223_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds,(PV218383_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds,PV218431_1_Influenza_A_virus_A_Turkey_OH_25_001328_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds)Node16,PV792035_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds,PV218191_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds,PV218199_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds)Node7,PV520598_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds,PV520601_1_Influenza_A_virus_A_cattle_Nevada_WD_210_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds)Node3)"
+    }
+  },
+ "runtime":"2.5.73",
+ "substitutions":{
+   "0":{
+     "0":{
+       "PV218207_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_putative_PB1_F2_protein_PB1_F2_genes_complete_cds":"ACG",
+       "root":"ATG"
+      },
+     "1":{
+       "root":"GAA"
+      },
+     "10":{
+       "PV520601_1_Influenza_A_virus_A_cattle_Nevada_WD_210_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"CAA",
+       "root":"CAG"
+      },
+     "11":{
+       "Node3":"TCA",
+       "root":"TTA"
+      },
+     "12":{
+       "root":"ACA"
+      },
+     "13":{
+       "root":"GAA"
+      },
+     "14":{
+       "root":"CAC"
+      },
+     "15":{
+       "root":"ATC"
+      },
+     "16":{
+       "PV218223_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"AGT",
+       "root":"AAT"
+      },
+     "17":{
+       "Node3":"ACT",
+       "root":"ATT"
+      },
+     "18":{
+       "root":"CAG"
+      },
+     "19":{
+       "Node3":"AGA",
+       "root":"AAA"
+      },
+     "2":{
+       "root":"CAG"
+      },
+     "20":{
+       "Node3":"AGG",
+       "root":"AAG"
+      },
+     "21":{
+       "Node3":"GAA",
+       "root":"GGA"
+      },
+     "22":{
+       "PV218207_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_putative_PB1_F2_protein_PB1_F2_genes_complete_cds":"AGT",
+       "root":"AAT"
+      },
+     "23":{
+       "root":"GGA"
+      },
+     "24":{
+       "root":"CAA"
+      },
+     "25":{
+       "root":"CAA"
+      },
+     "26":{
+       "Node3":"ACA",
+       "root":"ACT"
+      },
+     "27":{
+       "root":"CAG"
+      },
+     "28":{
+       "root":"AAA"
+      },
+     "29":{
+       "root":"CCG"
+      },
+     "3":{
+       "Node3":"GGA",
+       "root":"GAA"
+      },
+     "30":{
+       "Node3":"GAG",
+       "root":"GGG"
+      },
+     "31":{
+       "root":"CAC"
+      },
+     "32":{
+       "root":"CTC"
+      },
+     "33":{
+       "root":"AAC"
+      },
+     "34":{
+       "root":"TCA"
+      },
+     "35":{
+       "Node3":"ACC",
+       "root":"ATC"
+      },
+     "36":{
+       "root":"CAA"
+      },
+     "37":{
+       "root":"TTG"
+      },
+     "38":{
+       "root":"ATG"
+      },
+     "39":{
+       "Node3":"GGC",
+       "root":"GAC"
+      },
+     "4":{
+       "root":"CAG"
+      },
+     "40":{
+       "Node16":"CGC",
+       "Node3":"CAC",
+       "root":"CAT"
+      },
+     "41":{
+       "Node3":"TAC",
+       "root":"TGC"
+      },
+     "42":{
+       "root":"CTG"
+      },
+     "43":{
+       "Node3":"AGG",
+       "root":"ATG"
+      },
+     "44":{
+       "root":"ACA"
+      },
+     "45":{
+       "Node7":"ACG",
+       "root":"ATG"
+      },
+     "46":{
+       "Node3":"AAC",
+       "root":"AGC"
+      },
+     "47":{
+       "PV218199_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"CGA",
+       "root":"CAA"
+      },
+     "48":{
+       "Node3":"GCG",
+       "root":"GTG"
+      },
+     "49":{
+       "root":"GAT"
+      },
+     "5":{
+       "PV218191_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"GGT",
+       "root":"GAT"
+      },
+     "50":{
+       "root":"ATG"
+      },
+     "51":{
+       "root":"CAC"
+      },
+     "52":{
+       "root":"AAA"
+      },
+     "53":{
+       "Node3":"CAG",
+       "root":"CGG"
+      },
+     "54":{
+       "Node3":"ATT",
+       "root":"ACT"
+      },
+     "55":{
+       "root":"GCG"
+      },
+     "56":{
+       "Node3":"TGT",
+       "root":"TCC"
+      },
+     "57":{
+       "Node3":"TGG",
+       "root":"TTG"
+      },
+     "58":{
+       "root":"AAG"
+      },
+     "59":{
+       "root":"CAA"
+      },
+     "6":{
+       "Node3":"ACA",
+       "root":"ATA"
+      },
+     "60":{
+       "root":"TGG"
+      },
+     "61":{
+       "root":"CTT"
+      },
+     "62":{
+       "root":"TCC"
+      },
+     "63":{
+       "root":"TTG"
+      },
+     "64":{
+       "Node3":"AGG",
+       "root":"AAG"
+      },
+     "65":{
+       "Node3":"AGT",
+       "root":"AAT"
+      },
+     "66":{
+       "root":"CCC"
+      },
+     "67":{
+       "Node3":"ACC",
+       "root":"ATC"
+      },
+     "68":{
+       "root":"CAG"
+      },
+     "69":{
+       "Node3":"GGA",
+       "root":"GAA"
+      },
+     "7":{
+       "Node3":"CAA",
+       "root":"CCA"
+      },
+     "70":{
+       "root":"TCT"
+      },
+     "71":{
+       "root":"TTG"
+      },
+     "72":{
+       "root":"AAA"
+      },
+     "73":{
+       "root":"ACT"
+      },
+     "74":{
+       "Node3":"CTT",
+       "root":"CGT"
+      },
+     "75":{
+       "PV218431_1_Influenza_A_virus_A_Turkey_OH_25_001328_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"GTT",
+       "root":"GTC"
+      },
+     "76":{
+       "root":"TTG"
+      },
+     "77":{
+       "root":"AAA"
+      },
+     "78":{
+       "root":"CGA"
+      },
+     "79":{
+       "root":"TGG"
+      },
+     "8":{
+       "root":"TGG"
+      },
+     "80":{
+       "root":"AAG"
+      },
+     "81":{
+       "Node3":"TCG",
+       "root":"TTG"
+      },
+     "82":{
+       "PV792531_1_Influenza_A_virus_A_cattle_ID_25_012952_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"TCC",
+       "root":"TTC"
+      },
+     "83":{
+       "Node3":"AGC",
+       "root":"AAC"
+      },
+     "84":{
+       "root":"AAA"
+      },
+     "85":{
+       "root":"CAA"
+      },
+     "86":{
+       "root":"GAG"
+      },
+     "87":{
+       "root":"TGG"
+      },
+     "88":{
+       "root":"ACA"
+      },
+     "89":{
+       "Node3":"AAC",
+       "root":"AGT"
+      },
+     "9":{
+       "root":"ACA"
+      }
+    }
+  },
+ "test results":{
+   "LRT":10.21654904926504,
+   "p-value":0.003023253513497415
+  },
+ "tested":{
+   "0":{
+     "Node16":"test",
+     "Node3":"test",
+     "Node7":"test",
+     "PV218191_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV218199_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV218207_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_putative_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV218223_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV218383_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV218431_1_Influenza_A_virus_A_Turkey_OH_25_001328_002_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV520598_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV520601_1_Influenza_A_virus_A_cattle_Nevada_WD_210_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV792035_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV792275_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background",
+     "PV792531_1_Influenza_A_virus_A_cattle_ID_25_012952_001_original_2025_H5N1_segment_2_polymerase_PB1_PB1_and_PB1_F2_protein_PB1_F2_genes_complete_cds":"background"
+    }
+  },
+ "timers":{
+   "Constrained BUSTED model fitting":{
+     "order":3,
+     "timer":8
+    },
+   "Overall":{
+     "order":0,
+     "timer":54
+    },
+   "Preliminary model fitting":{
+     "order":1,
+     "timer":2
+    },
+   "Unconstrained BUSTED model fitting":{
+     "order":2,
+     "timer":41
+    }
+  }
+}

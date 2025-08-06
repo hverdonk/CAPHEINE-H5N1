@@ -1,0 +1,589 @@
+{
+ "MLE":{
+   "content":{
+     "0":      [
+[0, 0, 0, 1, 1, 1, 1, 0],
+      [9.260166255838912e-06, 1.805419181251705, 0.02772523118462344, 0, 0.9604729506058867, 1, -1, 0.3735937746349506],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [4.044290768819911e-06, 2.071218952433769, 0.3890605437247087, 0, 0.9708377472224586, 1, -1, 0.4286185042348552],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [5.75823963208976e-06, 1.666831918688653, 10000, 1, 0.0001686150009257981, 0.03878145021293355, 0.5, 1.006149478477681],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [3.562392576454041, 4.567245923586768e-11, 1.621868425755175, 0, 0.9366698573544773, 1, -1, 0.3260277829167038],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [5.09767705895661, 2.075620613874104e-06, 0.07287864572378956, 0, 0.9579767964595558, 1, -1, 0.4663877765887196],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [5.113782298559374, 4.391376540286934e-06, 0.2644188677594259, 0, 0.9835575231048997, 1, -1, 0.4678743770043637],
+      [7.970007661574477, 1.000096115346302e-06, 0.1756702000976719, 0, 0.9783410726179653, 1, -1, 0.7291816543814678],
+      [2.43984401350321, 4.008188454033924e-06, 1.245336841472926, 0, 0.9715795433848801, 1, -1, 0.2233026156342447],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [5.123552741139625, 1.905276599837041, 0.2007357306619398, 0, 0.9510943841670512, 1, -1, 0.863017499679974],
+      [3.744931019348735, 6.6501506092801e-05, 2.09034179472982, 0, 0.9700543515603801, 1, -1, 0.3427728218629793],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [3.486412224366449, 3.98596098759387e-09, 0.3168938269004631, 0, 0.9763144639000495, 1, -1, 0.3189901105960015],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [6.70632100248396, 1.681772092089859, 0.5124064054577855, 0, 0.9420973952630336, 1, -1, 0.9615950956520153],
+      [3.764179107479399, 1.556608407053084e-05, 0.5154680906600968, 0, 0.9883023609994652, 1, -1, 0.3444191383779819],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0.0001372418558503071, 2.829296759073313, 1.267622565843182, 0, 0.8946301837218005, 1, -1, 0.5855560202512027],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [6.123047924473696e-06, 3.078259079639433, 0.9815564786445864, 0, 0.896344025075712, 1, -1, 0.6370422890360578],
+      [5.105711199081532, 1.676078928113765e-07, 0.08730142289420544, 0, 0.9462415269113686, 1, -1, 0.4671233727141839],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [1.14617277291646e-05, 1.828775905566124, 0.01753228173261112, 0, 0.9289422314897975, 1, -1, 0.378426453431787],
+      [3.572934651473774, 1.65870594163698e-06, 0.2819538437758577, 0, 1, 1, -1, 0.326904012528318],
+      [5.09767705895661, 2.075620613874104e-06, 0.07287864572378956, 0, 0.9579767964595558, 1, -1, 0.4663877765887196],
+      [8.077087909246245e-06, 4.981686983720786, 0.1172273722469394, 0, 0.9521125411951193, 1, -1, 1.030857121196195],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [8.02779659003277, 1.175916485532437e-05, 0.5045062508581842, 0, 1, 1, -1, 0.7344926888645188],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [1.338940306572542e-05, 1.521219666843018, 0.6551337217320904, 0, 0.8166770690677819, 1, -1, 0.3148269097856579],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [3.502015121622196, 1.649343274529002, 0.6579086527504319, 0, 0.9633902998032707, 1, -1, 0.6617348341040036],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [13.34529395531546, 1.556566335709069e-07, 0.009395273715465231, 0, 0.9758837352113762, 1, -1, 1.220951267045988],
+      [5.062863634112301, 1.319319097801927e-06, 0.7599566755388463, 0, 0.9789785885435632, 1, -1, 0.4632479988294662],
+      [4.310806106394132e-06, 1.71257882435484, 3.167720810054386, 0, 1, 1, -1, 0.3545897153564778],
+      [2.258340704839999e-06, 1.983483474939517, 0.0002079819354414597, 0, 0.9753499007006003, 1, -1, 0.410437734991473],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [2.841619214987686, 1.155456079073831e-05, 0.4461949176341169, 0, 0.9901606922625635, 1, -1, 0.2600094372708388],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [4.852401218782614, 3.944923782968722e-06, 0.6686742367116262, 0, 0.9499956924738224, 1, -1, 0.4439874627588563],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [3.819040182543786, 9.721104537322464e-06, 0.6944758309756315, 0, 0.9215585458057293, 1, -1, 0.3494489628061122],
+      [7.571645926746545, 1.731068718361365e-06, 0.08215415721672045, 0, 0.9766467747444129, 1, -1, 0.6927298152743899],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [5.113782298559374, 4.391376540286934e-06, 0.2644188677594259, 0, 0.9835575231048997, 1, -1, 0.4678743770043637],
+      [4.845631855055273, 1.443242510307961e-05, 0.8238637944858763, 0, 1, 1, -1, 0.4433805707479624],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [3.560636615535188, 1.800905682656737e-06, 2.466859469876097, 0, 0.9346785685168618, 1, -1, 0.3259233778574292],
+      [0.0001498510147587115, 1.55987723997336, 2.46767286323423, 0, 1, 1, -1, 0.3229585656553225],
+      [3.562392576454041, 4.567245923586768e-11, 1.621868425755175, 0, 0.9366698573544773, 1, -1, 0.3260277829167038],
+      [4.856722467421199, 2.014965759856792, 0.2135517016745978, 0, 0.9487038023708004, 1, -1, 0.8613039687381945],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [6.255863496683448, 9.453770503157315e-07, 0.2449023659309874, 0, 0.9802979461642635, 1, -1, 0.572360498180823],
+      [3.740588282699517, 1.277065042135634e-05, 0.009868444033512041, 0, 0.9875742966036015, 1, -1, 0.3422268215897812],
+      [11.1736904919408, 1.068754744449013e-07, 0.4482235620791259, 0, 1, 1, -1, 1.022301953971533],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [5.113782298559374, 4.391376540286934e-06, 0.2644188677594259, 0, 0.9835575231048997, 1, -1, 0.4678743770043637],
+      [7.865652352947929, 1.437317290821631e-05, 0.400244090956627, 0, 0.8291332422389801, 1, -1, 0.7196518848544257],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [2.327990296073215, 9.842394083940443e-06, 0.5543769065224921, 0, 0.9694187917539527, 1, -1, 0.2130247241528802],
+      [5.113782298559374, 4.391376540286934e-06, 0.2644188677594259, 0, 0.9835575231048997, 1, -1, 0.4678743770043637],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [10.47379544180884, 3.848930981793978e-06, 0.5175343606434397, 0, 1, 1, -1, 0.9582744550227473],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [3.901736239324066, 4.102317417973003e-06, 0.2548165732022676, 0, 0.9805745861912949, 1, -1, 0.3569845265188899],
+      [5.032779218473523, 1.617426874166019, 0.04300303912230949, 0, 0.9701930402917235, 1, -1, 0.7951382118853521],
+      [12.33687431481972, 3.52308542590007, 0.1456843195286466, 0, 0.9651823285123544, 1, -1, 1.857724396409006],
+      [4.049585902645979e-08, 2.399600425011266, 0.1601598281590429, 0, 0.9584989240109183, 1, -1, 0.4965541987525214],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [5.105711199081532, 1.676078928113765e-07, 0.08730142289420544, 0, 0.9462415269113686, 1, -1, 0.4671233727141839],
+      [4.944611617273865, 1.654015831789998e-06, 0.05880773837454442, 0, 0.9788160916884056, 1, -1, 0.4523829201548756],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [3.774360880206002, 2.088689248103857, 0.2720312096671703, 0, 0.9784544745011281, 1, -1, 0.7775388377905127],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [6.30870148115947, 4.651179981141288e-09, 0.2568934581083561, 0, 0.7857714684796749, 1, -1, 0.5771952027107594],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [5.105711199081532, 1.676078928113765e-07, 0.08730142289420544, 0, 0.9462415269113686, 1, -1, 0.4671233727141839],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [7.235006244448554, 5.1338526946049e-06, 0.4320182989627062, 0, 0.9805248769576611, 1, -1, 0.6619547497136893],
+      [5.151026244884493, 1.388969875002326e-08, 0.1266405486649827, 0, 0.9650064820731978, 1, -1, 0.4712717806107017],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [3.778863829007313, 5.443759758081182e-06, 0.9044831204191611, 0, 0.9948307058714206, 1, -1, 0.3457862606453674],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [2.467313414027996, 3.304883037946135, 0.1945036711969293, 0, 0.9454269981707326, 1, -1, 0.9096170367765257],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [5.058264039835875e-05, 3.64076195347786, 0.6292290356942912, 0, 0.9573620082773111, 1, -1, 0.7534204403553787],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [6.021188190728443e-06, 3.530830319078127, 0.1282056345669936, 0, 0.9685478950285106, 1, -1, 0.7306353425616673],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [16.06445229997165, 1.201640090383944e-06, 0.3475402651761611, 0, 0.9854988934493254, 1, -1, 1.469747534926849],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [6.957193089953925e-07, 1.81416652840994, 4.529023508670108, 0, 0.9938834786029497, 1, -1, 0.3757007005805837],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [2.21653763056182e-05, 3.203046553502841, 0.1660711594550399, 0, 0.9590788159255349, 1, -1, 0.6628118089236774],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [12.34896268351876, 2.205987792179302e-06, 0.4473231782696497, 0, 0.958675196950921, 1, -1, 1.12982707184685],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [2.667549552643177, 5.26833420894993e-06, 0.2510413683093564, 0, 1, 1, -1, 0.2440697335703215],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [5.342601045133115e-07, 1.666598038811703, 0.009751363878468953, 0, 0.9248542907430807, 1, -1, 0.3448658592127837],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [1.675048473182953e-07, 4.38087201760139, 2.505184751106631, 0, 0.7518691293782459, 1, -1, 0.9066890867944238],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [3.204262479524604, 4.634171415642346e-06, 0.2316016198765221, 0, 0.9731272753565577, 1, -1, 0.2931717671388236],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [1.469928070437522e-05, 2.038523934038512, 0.04490407314598423, 0, 0.9764127656247111, 1, -1, 0.4218312198679776],
+      [4.249753106662094, 7.856678327005972e-06, 0.1592687099461126, 0, 0.9757267493159776, 1, -1, 0.3888187792353149],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0],
+      [0, 0, 0, 1, 1, 1, 1, 0] 
+      ]
+    },
+   "headers":    [
+["alpha", "Synonymous substitution rate at a site"],
+    ["beta (background)", "Non-synonymous substitution rate at a site for background branches"],
+    ["beta (Foreground)", "Non-synonymous substitution rate at a site for Foreground branches"],
+    ["subs (Foreground)", "Substitutions mapped to Foreground branches"],
+    ["P-value (overall)", "P-value for the test that Foreground branches have different non-synonymous rates than the rest of the branches"],
+    ["Q-value (overall)", "Q-value for the test that Foreground branches have different non-synonymous rates than the rest of the branches"],
+    ["Permutation p-value", "Label permutation test for significant sites"],
+    ["Total branch length", "The total length of branches contributing to inference at this site, and used to scale beta-alpha"] 
+    ]
+  },
+ "analysis":{
+   "authors":"Sergei L Kosakovsky Pond and Steven Weaver",
+   "citation":"Mol Biol Evol (2021), (38)3 1184–1198",
+   "contact":"spond@temple.edu",
+   "help":"http://www.hyphy.org/methods/other/contrast-fel/",
+   "info":"Contrast-FEL (Fixed Effects Likelihood) investigates whether or not selective pressures differ between two or more sets of\n    branches at a site. Site-specific synonymous (alpha) and non-synonymous (beta, one per branch set) substitution rates are estimated\n    and then beta rates are tested for equality at each site. LRT and permutation tests ar used to assess significance at each site, and FDR is applied alignment wide to call sites with different selective profiles",
+   "requirements":"in-frame codon alignment and a phylogenetic tree; only single partition data are supported",
+   "settings":{
+     "site-filter":{
+       "site-filter":null,
+       "site-save-filter":null
+      }
+    },
+   "version":"0.5"
+  },
+ "branch attributes":{
+   "0":{
+     "Node11":{
+       "Global MG94xREV":0.08197827898605541,
+       "Nucleotide GTR":0.0773863111740848
+      },
+     "Node12":{
+       "Global MG94xREV":0.004461875352671997,
+       "Nucleotide GTR":0.004360529141569928
+      },
+     "Node24":{
+       "Global MG94xREV":0.00297243106294788,
+       "Nucleotide GTR":0.002904413936594183
+      },
+     "Node25":{
+       "Global MG94xREV":0.001483403338147542,
+       "Nucleotide GTR":0.001450657127298714
+      },
+     "Node3":{
+       "Global MG94xREV":0.00294384047990214,
+       "Nucleotide GTR":0.00290228186724031
+      },
+     "Node31":{
+       "Global MG94xREV":0.004477277962465318,
+       "Nucleotide GTR":0.004368638919898818
+      },
+     "Node6":{
+       "Global MG94xREV":0.001486950430249911,
+       "Nucleotide GTR":0.001461437424626268
+      },
+     "PV218197_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0.001483809572722369,
+       "Nucleotide GTR":0.001450678505505591,
+       "original name":"PV218197_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV218205_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"PV218205_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV218213_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0.001483370044207028,
+       "Nucleotide GTR":0.001451082542006302,
+       "original name":"PV218213_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV218229_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0.002971221959202796,
+       "Nucleotide GTR":0.002904122597412221,
+       "original name":"PV218229_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV218237_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_005_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0.001484949924081729,
+       "Nucleotide GTR":0.001451562967576582,
+       "original name":"PV218237_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_005_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV218285_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0.002971072778375993,
+       "Nucleotide GTR":0.002904068109854256,
+       "original name":"PV218285_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV218325_1_Influenza_A_virus_A_Great_Horned_Owl_IA_25_000440_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0.001488635859620066,
+       "Nucleotide GTR":0.001452748616212821,
+       "original name":"PV218325_1_Influenza_A_virus_A_Great_Horned_Owl_IA_25_000440_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV218333_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0.001485035380762853,
+       "Nucleotide GTR":0.001452627792817098,
+       "original name":"PV218333_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV218373_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0.002974144803818729,
+       "Nucleotide GTR":0.00290463211321534,
+       "original name":"PV218373_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV218389_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"PV218389_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV218405_1_Influenza_A_virus_A_Turkey_OH_25_001057_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0.001485291681565175,
+       "Nucleotide GTR":0.00145122843516462,
+       "original name":"PV218405_1_Influenza_A_virus_A_Turkey_OH_25_001057_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV218893_1_Influenza_A_virus_A_cattle_CA_25_000603_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"PV218893_1_Influenza_A_virus_A_cattle_CA_25_000603_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV218901_1_Influenza_A_virus_A_cattle_CA_25_000605_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0.00145903961297959,
+       "Nucleotide GTR":0.001442781753113372,
+       "original name":"PV218901_1_Influenza_A_virus_A_cattle_CA_25_000605_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV218909_1_Influenza_A_virus_A_cattle_CA_25_001132_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0.004420033854540601,
+       "Nucleotide GTR":0.004360889238948418,
+       "original name":"PV218909_1_Influenza_A_virus_A_cattle_CA_25_001132_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV219189_1_Influenza_A_virus_A_goose_MD_25_001223_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0.001483510223525385,
+       "Nucleotide GTR":0.001450764663476043,
+       "original name":"PV219189_1_Influenza_A_virus_A_goose_MD_25_001223_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV336656_1_Influenza_A_virus_A_Common_Raven_CA_25_003340_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"PV336656_1_Influenza_A_virus_A_Common_Raven_CA_25_003340_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV520595_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0.002973556395810609,
+       "Nucleotide GTR":0.00290442052935946,
+       "original name":"PV520595_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV792033_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"PV792033_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV792041_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0,
+       "Nucleotide GTR":1e-06,
+       "original name":"PV792041_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV792065_1_Influenza_A_virus_A_Partridge_NY_25_013275_009_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0.001482971812889796,
+       "Nucleotide GTR":0.001450646013335946,
+       "original name":"PV792065_1_Influenza_A_virus_A_Partridge_NY_25_013275_009_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV792281_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0.007425100203527393,
+       "Nucleotide GTR":0.00729906915603161,
+       "original name":"PV792281_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV792401_1_Influenza_A_virus_A_cattle_ID_25_012902_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0.001469322274390957,
+       "Nucleotide GTR":0.001450199081869747,
+       "original name":"PV792401_1_Influenza_A_virus_A_cattle_ID_25_012902_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      },
+     "PV792449_1_Influenza_A_virus_A_cattle_ID_25_012902_007_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":{
+       "Global MG94xREV":0.001469271769181597,
+       "Nucleotide GTR":0.001450290007313341,
+       "original name":"PV792449_1_Influenza_A_virus_A_cattle_ID_25_012902_007_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds"
+      }
+    },
+   "attributes":{
+     "Global MG94xREV":{
+       "attribute type":"branch length",
+       "display order":1
+      },
+     "Nucleotide GTR":{
+       "attribute type":"branch length",
+       "display order":0
+      },
+     "original name":{
+       "attribute type":"node label",
+       "display order":-1
+      }
+    }
+  },
+ "data partitions":{
+   "0":{
+     "coverage":      [
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229] 
+      ],
+     "name":"fel.filter.default"
+    }
+  },
+ "fits":{
+   "Global MG94xREV":{
+     "AIC-c":2914.476523829555,
+     "Equilibrium frequencies":      [
+[0.02999408402583628],
+      [0.02019084300744896],
+      [0.02208271784154846],
+      [0.02330013507853855],
+      [0.02044247858355603],
+      [0.01376107619783229],
+      [0.01505048416060036],
+      [0.01588021530934904],
+      [0.01918913776890447],
+      [0.01291737623347733],
+      [0.01412772980859527],
+      [0.01490658963517703],
+      [0.02910700217461669],
+      [0.01959369423713466],
+      [0.02142961644308712],
+      [0.02261102828863516],
+      [0.02189376362575172],
+      [0.01473802446605717],
+      [0.01611897213532435],
+      [0.01700760888107786],
+      [0.01492170234794789],
+      [0.01004470579104135],
+      [0.01098589116378649],
+      [0.01159154185236826],
+      [0.01400684368732496],
+      [0.009428858760182479],
+      [0.01031233948439428],
+      [0.01088085736032231],
+      [0.02124625059116242],
+      [0.01430214404325753],
+      [0.01564224987138578],
+      [0.01650460498344094],
+      [0.03155272607990691],
+      [0.02124005981271763],
+      [0.02323024588962506],
+      [0.02451092619213462],
+      [0.02150477162715499],
+      [0.0144761702828104],
+      [0.01583258230790931],
+      [0.01670543042135337],
+      [0.02018630097889637],
+      [0.01358862746450035],
+      [0.01486187704207158],
+      [0.01568121030597821],
+      [0.03061954703573679],
+      [0.020611880216953],
+      [0.02254320608836611],
+      [0.02378600997989436],
+      [0.01036085562752402],
+      [0.01195637723305973],
+      [0.01048998148293443],
+      [0.007061444819936301],
+      [0.007723099696966008],
+      [0.008148873134888992],
+      [0.00662850333649235],
+      [0.007249591749959186],
+      [0.007649260759039933],
+      [0.01493614938068571],
+      [0.0100544309678356],
+      [0.01099652758619973],
+      [0.0116027646593053] 
+      ],
+     "Log Likelihood":-1410.82590257852,
+     "Rate Distributions":{
+       "non-synonymous/synonymous rate ratio for *Foreground*":        [
+[22.0454695849466, 1] 
+        ],
+       "non-synonymous/synonymous rate ratio for *background*":        [
+[0.2264919752998825, 1] 
+        ]
+      },
+     "display order":1,
+     "estimated parameters":46
+    },
+   "Nucleotide GTR":{
+     "AIC-c":3012.856991774924,
+     "Equilibrium frequencies":      [
+[0.300945179584121],
+      [0.2211090107120353],
+      [0.2502835538752363],
+      [0.2276622558286074] 
+      ],
+     "Log Likelihood":-1455.260838787955,
+     "Rate Distributions":{
+       "Substitution rate from nucleotide A to nucleotide C":0.252240085995105,
+       "Substitution rate from nucleotide A to nucleotide G":1,
+       "Substitution rate from nucleotide A to nucleotide T":0.1754201174289152,
+       "Substitution rate from nucleotide C to nucleotide G":0.06278926213930439,
+       "Substitution rate from nucleotide C to nucleotide T":1.4192567010383,
+       "Substitution rate from nucleotide G to nucleotide T":0.1090520153959398
+      },
+     "display order":0,
+     "estimated parameters":51
+    }
+  },
+ "input":{
+   "file name":"/home/hverdonk/work/61/ae2f87b8ebfc772541c416320ff0ab/GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007364.1_cds_YP_308673.1_12-nodups.fasta",
+   "number of sequences":23,
+   "number of sites":230,
+   "partition count":1,
+   "trees":{
+     "0":"(PV792033_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds,PV792449_1_Influenza_A_virus_A_cattle_ID_25_012902_007_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds,(((PV218197_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds,PV336656_1_Influenza_A_virus_A_Common_Raven_CA_25_003340_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds,PV218237_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_005_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds,PV520595_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds,PV218229_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds,((PV792041_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds,PV792065_1_Influenza_A_virus_A_Partridge_NY_25_013275_009_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds)Node25,PV218333_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds,PV219189_1_Influenza_A_virus_A_goose_MD_25_001223_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds)Node24,(PV218389_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds,PV218405_1_Influenza_A_virus_A_Turkey_OH_25_001057_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds)Node31,PV218213_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds,PV218325_1_Influenza_A_virus_A_Great_Horned_Owl_IA_25_000440_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds,PV218285_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds,PV218373_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds)Node12,PV218205_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds)Node11,PV218893_1_Influenza_A_virus_A_cattle_CA_25_000603_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds,(PV792281_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds,PV218901_1_Influenza_A_virus_A_cattle_CA_25_000605_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds)Node6,PV218909_1_Influenza_A_virus_A_cattle_CA_25_001132_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds)Node3,PV792401_1_Influenza_A_virus_A_cattle_ID_25_012902_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds)"
+    }
+  },
+ "runtime":"2.5.73",
+ "tested":{
+   "0":{
+     "Node11":"background",
+     "Node12":"background",
+     "Node24":"background",
+     "Node25":"background",
+     "Node3":"background",
+     "Node31":"background",
+     "Node6":"Foreground",
+     "PV218197_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV218205_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV218213_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV218229_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV218237_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_005_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV218285_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV218325_1_Influenza_A_virus_A_Great_Horned_Owl_IA_25_000440_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV218333_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV218373_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV218389_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV218405_1_Influenza_A_virus_A_Turkey_OH_25_001057_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV218893_1_Influenza_A_virus_A_cattle_CA_25_000603_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV218901_1_Influenza_A_virus_A_cattle_CA_25_000605_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV218909_1_Influenza_A_virus_A_cattle_CA_25_001132_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV219189_1_Influenza_A_virus_A_goose_MD_25_001223_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV336656_1_Influenza_A_virus_A_Common_Raven_CA_25_003340_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV520595_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV792033_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV792041_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV792065_1_Influenza_A_virus_A_Partridge_NY_25_013275_009_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV792281_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV792401_1_Influenza_A_virus_A_cattle_ID_25_012902_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background",
+     "PV792449_1_Influenza_A_virus_A_cattle_ID_25_012902_007_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds":"background"
+    }
+  },
+ "timers":{
+   "FEL analysis":{
+     "order":2,
+     "timer":31
+    },
+   "Model fitting":{
+     "order":1,
+     "timer":6
+    },
+   "Total time":{
+     "order":0,
+     "timer":37
+    }
+  }
+}
