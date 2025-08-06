@@ -1,0 +1,15 @@
+Sample	cawlign	drhip	hyphy	iqtree	python	biopython	seqkit	veg/CAPHEINE	Nextflow
+CAWLIGN	null								
+DRHIP		0.1.1							
+HYPHY_BUSTED			2.5.73(MP) for Linux on aarch64 ARM Neon SIMD zlib (v1.2.11)						
+HYPHY_CLN			2.5.73(MP) for Linux on aarch64 ARM Neon SIMD zlib (v1.2.11)						
+HYPHY_CONTRASTFEL			HYPHY 2.5.73(MP) for Linux on aarch64 ARM Neon SIMD zlib (v1.2.11)						
+HYPHY_FEL			2.5.73(MP) for Linux on aarch64 ARM Neon SIMD zlib (v1.2.11)						
+HYPHY_LABELTREE_REGEXP			2.5.73(MP) for Linux on aarch64 ARM Neon SIMD zlib (v1.2.11)						
+HYPHY_MEME			2.5.73(MP) for Linux on aarch64 ARM Neon SIMD zlib (v1.2.11)						
+HYPHY_PRIME			2.5.73(MP) for Linux on aarch64 ARM Neon SIMD zlib (v1.2.11)						
+HYPHY_RELAX			2.5.73(MP) for Linux on aarch64 ARM Neon SIMD zlib (v1.2.11)						
+IQTREE				2.4.0					
+REMOVEAMBIGSEQS					3.13.3	1.85			
+SEQKIT_SPLIT							2.10.0		
+Workflow								v1.1	25.04.6
