@@ -1,0 +1,151 @@
+IQ-TREE multicore version 2.4.0 for Linux ARM 64-bit built Feb 12 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    node0 (SSE4.2, 250 GB RAM)
+Command: iqtree -s GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308671.1_10-nodups.fasta -m GTR+I+G -pre GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308671.1_10 -nt AUTO -ntmax 6 -mem 36GB
+Seed:    643912 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Aug  5 20:39:59 2025
+Kernel:  SSE2 - auto-detect threads (6 CPU cores detected)
+
+Reading alignment file GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308671.1_10-nodups.fasta ... Fasta format detected
+Reading fasta file: done in 0.000359439 secs using 99.88% CPU
+Alignment most likely contains DNA/RNA sequences
+Alignment has 22 sequences with 756 columns, 29 distinct patterns
+23 parsimony-informative, 12 singleton sites, 721 constant sites
+                                                                                                                                                          Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.000620477 secs using 492.5% CPU
+   1  PV792032_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds          0.00%    passed     99.72%
+   2  PV792400_1_Influenza_A_virus_A_cattle_ID_25_012902_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds          0.00%    passed     99.91%
+   3  PV792536_1_Influenza_A_virus_A_cattle_ID_25_012952_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds          0.00%    passed     99.27%
+   4  PV520594_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds                        0.00%    passed     99.94%
+   5  PV218900_1_Influenza_A_virus_A_cattle_CA_25_000605_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds          0.00%    passed     99.94%
+   6  PV218908_1_Influenza_A_virus_A_cattle_CA_25_001132_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds          0.00%    passed     99.50%
+   7  PV218924_1_Influenza_A_virus_A_cattle_CA_25_001525_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds          0.00%    passed     99.27%
+   8  PV792040_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds     0.00%    passed     99.82%
+   9  PV792048_1_Influenza_A_virus_A_Duck_NY_25_013275_004_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds            0.00%    passed     99.95%
+  10  PV336655_1_Influenza_A_virus_A_Common_Raven_CA_25_003340_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds    0.00%    passed     99.99%
+  11  PV218196_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds      0.00%    passed    100.00%
+  12  PV218204_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds      0.00%    passed     99.95%
+  13  PV218228_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds    0.00%    passed     99.94%
+  14  PV218236_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_005_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds    0.00%    passed     99.86%
+  15  PV218252_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_007_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds    0.00%    passed     99.70%
+  16  PV218268_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_010_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds    0.00%    passed    100.00%
+  17  PV218276_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_011_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds    0.00%    passed    100.00%
+  18  PV218284_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds           0.00%    passed     99.99%
+  19  PV218292_1_Influenza_A_virus_A_Duck_IL_25_000617_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds            0.00%    passed     99.90%
+  20  PV218332_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds      0.00%    passed    100.00%
+  21  PV218372_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds          0.00%    passed     99.99%
+  22  PV218540_1_Influenza_A_virus_A_Turkey_OH_25_001341_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds          0.00%    passed     99.94%
+****  TOTAL                                                                                                                                                       0.00%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.000 seconds
+
+NOTE: 0 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 6 CPU cores
+Increase to 10 rounds for branch lengths
+3323 trees examined
+Threads: 1 / Time: 6.000 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -1714
+Threads: 2 / Time: 6.544 sec / Speedup: 0.917 / Efficiency: 46% / LogL: -1714
+BEST NUMBER OF THREADS: 1
+
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.000 / Estimate: 0.000, 0.020 / LogL: -1306.321
+Init pinv, alpha: 0.106, 1.000 / Estimate: 0.106, 0.020 / LogL: -1305.978
+Init pinv, alpha: 0.212, 1.000 / Estimate: 0.212, 0.020 / LogL: -1305.832
+Init pinv, alpha: 0.318, 1.000 / Estimate: 0.318, 0.146 / LogL: -1305.782
+Init pinv, alpha: 0.424, 1.000 / Estimate: 0.424, 0.251 / LogL: -1305.742
+Init pinv, alpha: 0.530, 1.000 / Estimate: 0.530, 0.422 / LogL: -1305.729
+Init pinv, alpha: 0.636, 1.000 / Estimate: 0.636, 0.813 / LogL: -1305.702
+Init pinv, alpha: 0.742, 1.000 / Estimate: 0.742, 2.996 / LogL: -1305.654
+Init pinv, alpha: 0.848, 1.000 / Estimate: 0.845, 998.440 / LogL: -1305.740
+Init pinv, alpha: 0.954, 1.000 / Estimate: 0.871, 998.446 / LogL: -1306.021
+Optimal pinv,alpha: 0.742, 2.996 / LogL: -1305.654
+
+Parameters optimization took 0.164 sec
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.00233283 secs using 94.26% CPU
+Computing ML distances took 0.002364 sec (of wall-clock time) 0.002229 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000115959 secs using 115.6% CPU
+Computing RapidNJ tree took 0.000516 sec (of wall-clock time) 0.000510 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -1305.673
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.042 second
+Computing log-likelihood of 98 initial trees ... 0.048 seconds
+Current best score: -1305.612
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -1305.600
+BETTER TREE FOUND at iteration 2: -1305.600
+Iteration 10 / LogL: -1305.600 / Time: 0h:0m:12s
+Iteration 20 / LogL: -1305.600 / Time: 0h:0m:12s
+Finish initializing candidate tree set (20)
+Current best tree score: -1305.600 / CPU time: 0.142
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -1305.600 / Time: 0h:0m:12s (0h:0m:32s left)
+Iteration 40 / LogL: -1305.602 / Time: 0h:0m:12s (0h:0m:20s left)
+Iteration 50 / LogL: -1305.604 / Time: 0h:0m:13s (0h:0m:13s left)
+Iteration 60 / LogL: -1305.604 / Time: 0h:0m:13s (0h:0m:9s left)
+Iteration 70 / LogL: -1305.605 / Time: 0h:0m:13s (0h:0m:6s left)
+Iteration 80 / LogL: -1357.971 / Time: 0h:0m:13s (0h:0m:3s left)
+Iteration 90 / LogL: -1310.748 / Time: 0h:0m:13s (0h:0m:1s left)
+BETTER TREE FOUND at iteration 92: -1305.600
+Iteration 100 / LogL: -1305.604 / Time: 0h:0m:13s (0h:0m:12s left)
+Iteration 110 / LogL: -1305.605 / Time: 0h:0m:13s (0h:0m:10s left)
+Iteration 120 / LogL: -1305.605 / Time: 0h:0m:13s (0h:0m:8s left)
+Iteration 130 / LogL: -1305.606 / Time: 0h:0m:13s (0h:0m:6s left)
+Iteration 140 / LogL: -1305.603 / Time: 0h:0m:13s (0h:0m:5s left)
+Iteration 150 / LogL: -1310.638 / Time: 0h:0m:13s (0h:0m:3s left)
+Iteration 160 / LogL: -1315.980 / Time: 0h:0m:13s (0h:0m:2s left)
+Iteration 170 / LogL: -1310.111 / Time: 0h:0m:13s (0h:0m:1s left)
+BETTER TREE FOUND at iteration 174: -1305.600
+Iteration 180 / LogL: -1305.645 / Time: 0h:0m:13s (0h:0m:7s left)
+Iteration 190 / LogL: -1305.603 / Time: 0h:0m:13s (0h:0m:6s left)
+Iteration 200 / LogL: -1305.602 / Time: 0h:0m:13s (0h:0m:5s left)
+Iteration 210 / LogL: -1305.606 / Time: 0h:0m:14s (0h:0m:4s left)
+Iteration 220 / LogL: -1310.747 / Time: 0h:0m:14s (0h:0m:3s left)
+Iteration 230 / LogL: -1305.602 / Time: 0h:0m:14s (0h:0m:2s left)
+Iteration 240 / LogL: -1305.645 / Time: 0h:0m:14s (0h:0m:2s left)
+Iteration 250 / LogL: -1305.602 / Time: 0h:0m:14s (0h:0m:1s left)
+Iteration 260 / LogL: -1305.600 / Time: 0h:0m:14s (0h:0m:0s left)
+Iteration 270 / LogL: -1305.600 / Time: 0h:0m:14s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 275 ITERATIONS / Time: 0h:0m:14s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -1305.600
+2. Current log-likelihood: -1305.585
+Optimal log-likelihood: -1305.575
+Rate parameters:  A-C: 1.77755  A-G: 7.97862  A-T: 0.49132  C-G: 0.00010  C-T: 6.88331  G-T: 1.00000
+Warning! Some parameters hit the boundaries
+Base frequencies:  A: 0.283  C: 0.234  G: 0.274  T: 0.210
+Proportion of invariable sites: 0.743
+Gamma shape alpha: 3.003
+Parameters optimization took 2 rounds (0.008 sec)
+BEST SCORE FOUND : -1305.575
+Total tree length: 0.054
+
+Total number of iterations: 275
+CPU time used for tree search: 1.589 sec (0h:0m:1s)
+Wall-clock time used for tree search: 1.701 sec (0h:0m:1s)
+Total CPU time used: 19.759 sec (0h:0m:19s)
+Total wall-clock time used: 14.435 sec (0h:0m:14s)
+
+Analysis results written to: 
+  IQ-TREE report:                GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308671.1_10.iqtree
+  Maximum-likelihood tree:       GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308671.1_10.treefile
+  Likelihood distances:          GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308671.1_10.mldist
+  Screen log file:               GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308671.1_10.log
+
+Date and Time: Tue Aug  5 20:40:14 2025

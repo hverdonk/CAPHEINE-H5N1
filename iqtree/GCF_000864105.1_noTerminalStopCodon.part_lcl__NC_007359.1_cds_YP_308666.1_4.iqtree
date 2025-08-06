@@ -1,0 +1,185 @@
+IQ-TREE 2.4.0 built Feb 12 2025
+
+Input file name: GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007359.1_cds_YP_308666.1_4-nodups.fasta
+Type of analysis: tree reconstruction
+Random seed number: 745686
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 37 sequences with 2148 nucleotide sites
+Number of constant sites: 1818 (= 84.6369% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 1818 (= 84.6369% of all sites)
+Number of parsimony informative sites: 283
+Number of distinct site patterns: 108
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+I+G4
+
+Rate parameter R:
+
+  A-C: 3.1595
+  A-G: 20.2600
+  A-T: 1.8318
+  C-G: 0.0001
+  C-T: 26.7916
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.3289
+  pi(C) = 0.2016
+  pi(G) = 0.2433
+  pi(T) = 0.2262
+
+Rate matrix Q:
+
+  A   -0.9218    0.0982    0.7597   0.06386
+  C    0.1602    -1.094  3.75e-06     0.934
+  G     1.027  3.108e-06    -1.062   0.03486
+  T   0.09287    0.8327    0.0375   -0.9631
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.188
+Gamma shape alpha: 1.051
+
+ Category  Relative_rate  Proportion
+  0         0              0.188
+  1         0.1811         0.203
+  2         0.6054         0.203
+  3         1.241          0.203
+  4         2.898          0.203
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -4801.2839 (s.e. 94.7909)
+Unconstrained log-likelihood (without tree): -4557.5804
+Number of free parameters (#branches + #model parameters): 81
+Akaike information criterion (AIC) score: 9764.5678
+Corrected Akaike information criterion (AICc) score: 9770.9976
+Bayesian information criterion (BIC) score: 10224.0234
+
+Total tree length (sum of branch lengths): 0.1970
+Sum of internal branch lengths: 0.1629 (82.6758% of tree length)
+
+WARNING: 23 near-zero internal branches (<0.0005) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'PV792028_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds' is drawn at root
+
++--PV792028_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|
+|              +--PV792276_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           +**|
+|           |  |                                                                      +--PV520599_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                                   +**|
+|           |  |                                                                   |  +--PV218248_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_007_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                                +--|
+|           |  |                                                                |  +--PV218208_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                             +**|
+|           |  |                                                             |  +--PV218328_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                          +**|
+|           |  |                                                          |  |        +--PV792036_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                          |  |     +**|
+|           |  |                                                          |  |     |  +--PV336651_1_Influenza_A_virus_A_Common_Raven_CA_25_003340_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                          |  |  +**|
+|           |  |                                                          |  |  |  +--PV218368_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                          |  +**|
+|           |  |                                                          |     |     +--PV218224_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                          |     |  +**|
+|           |  |                                                          |     |  |  |  +--PV218232_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_005_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                          |     |  |  +--|
+|           |  |                                                          |     |  |     |     +**PV218384_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                          |     |  |     |  +**|
+|           |  |                                                          |     |  |     |  |  +--PV218480_1_Influenza_A_virus_A_Turkey_OH_25_001337_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                          |     |  |     +--|
+|           |  |                                                          |     |  |        +--PV218392_1_Influenza_A_virus_A_Turkey_OH_25_001057_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                          |     +**|
+|           |  |                                                          |        |     +**PV218264_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_010_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                          |        |  +**|
+|           |  |                                                          |        |  |  +--PV218320_1_Influenza_A_virus_A_Great_Horned_Owl_IA_25_000440_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                          |        +**|
+|           |  |                                                          |           |        +**PV218288_1_Influenza_A_virus_A_Duck_IL_25_000617_002_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                          |           |     +**|
+|           |  |                                                          |           |     |  +**PV218296_1_Influenza_A_virus_A_Duck_IL_25_000618_002_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                          |           |  +--|
+|           |  |                                                          |           |  |  |  +**PV218544_1_Influenza_A_virus_A_Wood_Duck_IL_25_001096_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                          |           |  |  +**|
+|           |  |                                                          |           |  |     |  +**PV219160_1_Influenza_A_virus_A_goose_IL_25_001560_004_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                          |           |  |     +**|
+|           |  |                                                          |           |  |        +--PV219168_1_Influenza_A_virus_A_goose_IL_25_001560_005_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                          |           +**|
+|           |  |                                                          |              +--PV219184_1_Influenza_A_virus_A_goose_MD_25_001223_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |                                                       +**|
+|           |  |                                                       |  +--PV218192_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  |    +--------------------------------------------------|
+|           |  |    |                                                  +**PV218280_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |  +----|
+|           |       |  +--PV218200_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|           |       +--|
+|           |          +--PV218272_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_011_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|        +**|
+|        |  |        +--PV218888_1_Influenza_A_virus_A_cattle_CA_25_000603_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|        |  |     +**|
+|        |  |     |  +--PV218920_1_Influenza_A_virus_A_cattle_CA_25_001525_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|        |  |  +--|
+|        |  |  |  +**PV218928_1_Influenza_A_virus_A_cattle_CA_25_001525_002_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|        |  +**|
+|        |     +--PV218904_1_Influenza_A_virus_A_cattle_CA_25_001132_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|     +--|
+|     |  +--PV218896_1_Influenza_A_virus_A_cattle_CA_25_000605_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|  +**|
+|  |  |  +--PV792404_1_Influenza_A_virus_A_cattle_ID_25_012902_002_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|  |  +--|
+|  |     +**PV792444_1_Influenza_A_virus_A_cattle_ID_25_012902_007_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
++--|
+|  |     +--PV792396_1_Influenza_A_virus_A_cattle_ID_25_012902_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|  |  +**|
+|  |  |  +--PV792492_1_Influenza_A_virus_A_cattle_ID_25_012906_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|  +**|
+|     +**PV792412_1_Influenza_A_virus_A_cattle_ID_25_012902_003_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+|
++**PV792500_1_Influenza_A_virus_A_cattle_ID_25_012909_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds
+
+Tree in newick format:
+
+(PV792028_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0009322562,(((((PV792276_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0009333408,(((((((PV520599_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0023489141,PV218248_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_007_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0018725008):0.0004611399,PV218208_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0009338996):0.0014035566,PV218328_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0009318606):0.0000010000,(((PV792036_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0042197118,PV336651_1_Influenza_A_virus_A_Common_Raven_CA_25_003340_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0023392212):0.0000010000,PV218368_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0004657297):0.0000010000,((PV218224_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0018669653,(PV218232_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_005_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0014026939,((PV218384_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0000010000,PV218480_1_Influenza_A_virus_A_Turkey_OH_25_001337_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0004656938):0.0000010000,PV218392_1_Influenza_A_virus_A_Turkey_OH_25_001057_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0004656353):0.0032853117):0.0009350179):0.0000010000,((PV218264_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_010_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0004655440,PV218320_1_Influenza_A_virus_A_Great_Horned_Owl_IA_25_000440_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0018663626):0.0000010000,(((PV218288_1_Influenza_A_virus_A_Duck_IL_25_000617_002_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0004655085,PV218296_1_Influenza_A_virus_A_Duck_IL_25_000618_002_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0000010000):0.0004654161,(PV218544_1_Influenza_A_virus_A_Wood_Duck_IL_25_001096_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0000010000,(PV219160_1_Influenza_A_virus_A_goose_IL_25_001560_004_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0000010000,PV219168_1_Influenza_A_virus_A_goose_IL_25_001560_005_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0004660483):0.0004654172):0.0000010000):0.0009317413,PV219184_1_Influenza_A_virus_A_goose_MD_25_001223_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0009327158):0.0000010000):0.0000010000):0.0000010000):0.0000010000):0.0000010000,PV218192_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0009332741):0.0004654542,PV218280_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0000010000):0.1277171380,(PV218200_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0019325321,PV218272_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_011_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0013466086):0.0088030251):0.0146655760):0.0000010000,(((PV218888_1_Influenza_A_virus_A_cattle_CA_25_000603_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0018699138,PV218920_1_Influenza_A_virus_A_cattle_CA_25_001525_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0004658432):0.0000010000,PV218928_1_Influenza_A_virus_A_cattle_CA_25_001525_002_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0000010000):0.0004658433,PV218904_1_Influenza_A_virus_A_cattle_CA_25_001132_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0014012576):0.0000010000):0.0000010000,PV218896_1_Influenza_A_virus_A_cattle_CA_25_000605_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0009334945):0.0018691363,(PV792404_1_Influenza_A_virus_A_cattle_ID_25_012902_002_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0009332661,PV792444_1_Influenza_A_virus_A_cattle_ID_25_012902_007_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0000010000):0.0004658433):0.0000010000,((PV792396_1_Influenza_A_virus_A_cattle_ID_25_012902_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0004658432,PV792492_1_Influenza_A_virus_A_cattle_ID_25_012906_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0004658432):0.0000010000,PV792412_1_Influenza_A_virus_A_cattle_ID_25_012902_003_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0000010000):0.0000010000):0.0004658433,PV792500_1_Influenza_A_virus_A_cattle_ID_25_012909_001_original_2025_H5N1_segment_3_polymerase_PA_PA_and_PA_X_protein_PA_X_genes_complete_cds:0.0000010000);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007359.1_cds_YP_308666.1_4.treefile -m "GTR{3.15949,20.26,1.83177,0.0001,26.7916}+F{0.328904,0.201646,0.243281,0.226169}+I{0.188034}+G4{1.05097}" --length 2148
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007359.1_cds_YP_308666.1_4-nodups.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007359.1_cds_YP_308666.1_4-nodups.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Tue Aug  5 20:40:41 2025
+Total CPU time used: 38.3495 seconds (0h:0m:38s)
+Total wall-clock time used: 20.6185 seconds (0h:0m:20s)
+

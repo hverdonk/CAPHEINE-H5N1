@@ -1,0 +1,145 @@
+IQ-TREE multicore version 2.4.0 for Linux ARM 64-bit built Feb 12 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    node0 (SSE4.2, 250 GB RAM)
+Command: iqtree -s GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007361.1_cds_YP_308668.1_8-nodups.fasta -m GTR+I+G -pre GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007361.1_cds_YP_308668.1_8 -nt AUTO -ntmax 6 -mem 36GB
+Seed:    636301 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Aug  5 20:39:56 2025
+Kernel:  SSE2 - auto-detect threads (6 CPU cores detected)
+
+Reading alignment file GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007361.1_cds_YP_308668.1_8-nodups.fasta ... Fasta format detected
+Reading fasta file: done in 0.00109159 secs using 86.85% CPU
+Alignment most likely contains DNA/RNA sequences
+Alignment has 35 sequences with 1407 columns, 116 distinct patterns
+252 parsimony-informative, 34 singleton sites, 1121 constant sites
+                                                                                                                                  Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 0.00122447 secs using 248.6% CPU
+   1  PV792031_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds              0.00%    passed     94.90%
+   2  PV792279_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds              0.00%    passed     98.76%
+   3  PV792399_1_Influenza_A_virus_A_cattle_ID_25_012902_001_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds              0.00%    passed     95.18%
+   4  PV792407_1_Influenza_A_virus_A_cattle_ID_25_012902_002_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds              0.00%    passed     93.40%
+   5  PV792495_1_Influenza_A_virus_A_cattle_ID_25_012906_001_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds              0.00%    passed     93.10%
+   6  PV792535_1_Influenza_A_virus_A_cattle_ID_25_012952_001_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds              0.00%    passed     94.90%
+   7  PV520592_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds                            0.00%    passed     89.45%
+   8  PV520604_1_Influenza_A_virus_A_cattle_Nevada_WD_210_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds                          0.00%    passed     87.18%
+   9  PV218891_1_Influenza_A_virus_A_cattle_CA_25_000603_001_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds              0.00%    passed     98.61%
+  10  PV218899_1_Influenza_A_virus_A_cattle_CA_25_000605_001_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds              0.00%    passed     97.53%
+  11  PV218907_1_Influenza_A_virus_A_cattle_CA_25_001132_001_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds              0.00%    passed     97.76%
+  12  PV218923_1_Influenza_A_virus_A_cattle_CA_25_001525_001_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds              0.00%    passed     98.61%
+  13  PV218931_1_Influenza_A_virus_A_cattle_CA_25_001525_002_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds              0.00%    passed     97.76%
+  14  PV792039_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds         0.00%    passed     91.47%
+  15  PV792063_1_Influenza_A_virus_A_Partridge_NY_25_013275_009_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds           0.00%    passed     89.24%
+  16  PV336654_1_Influenza_A_virus_A_Common_Raven_CA_25_003340_001_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds        0.00%    passed     91.43%
+  17  PV218195_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds          0.00%    passed     89.73%
+  18  PV218203_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds          0.00%    passed     85.71%
+  19  PV218211_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds        0.00%    passed     91.84%
+  20  PV218227_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds        0.00%    passed     89.50%
+  21  PV218235_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_005_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds        0.00%    passed     73.30%
+  22  PV218251_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_007_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds        0.00%    passed     86.95%
+  23  PV218267_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_010_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds        0.00%    passed     87.30%
+  24  PV218275_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_011_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds        0.00%    passed     83.12%
+  25  PV218283_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds               0.00%    passed     95.30%
+  26  PV218291_1_Influenza_A_virus_A_Duck_IL_25_000617_002_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds                0.00%    passed     96.22%
+  27  PV218323_1_Influenza_A_virus_A_Great_Horned_Owl_IA_25_000440_001_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds    0.00%    passed     86.01%
+  28  PV218331_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds          0.00%    passed     96.45%
+  29  PV218371_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds              0.00%    passed     92.67%
+  30  PV218387_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds              0.00%    passed     74.78%
+  31  PV218435_1_Influenza_A_virus_A_Turkey_OH_25_001328_002_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds              0.00%    passed     75.25%
+  32  PV218443_1_Influenza_A_virus_A_Turkey_OH_25_001328_003_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds              0.00%    passed     77.72%
+  33  PV218515_1_Influenza_A_virus_A_Turkey_OH_25_001339_001_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds              0.00%    passed     77.72%
+  34  PV218547_1_Influenza_A_virus_A_Wood_Duck_IL_25_001096_001_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds           0.00%    passed     94.73%
+  35  PV219187_1_Influenza_A_virus_A_goose_MD_25_001223_001_original_2025_H5N1_segment_6_neuraminidase_NA_gene_complete_cds               0.00%    passed     81.79%
+****  TOTAL                                                                                                                               0.00%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+
+NOTE: 0 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 6 CPU cores
+Increase to 10 rounds for branch lengths
+351 trees examined
+Threads: 1 / Time: 6.014 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -8633
+Threads: 2 / Time: 5.296 sec / Speedup: 1.135 / Efficiency: 57% / LogL: -8633
+Threads: 3 / Time: 4.523 sec / Speedup: 1.330 / Efficiency: 44% / LogL: -8633
+BEST NUMBER OF THREADS: 2
+
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.000 / Estimate: 0.000, 0.508 / LogL: -3589.310
+Init pinv, alpha: 0.089, 1.000 / Estimate: 0.088, 0.642 / LogL: -3589.354
+Init pinv, alpha: 0.177, 1.000 / Estimate: 0.177, 0.845 / LogL: -3589.368
+Init pinv, alpha: 0.266, 1.000 / Estimate: 0.266, 1.152 / LogL: -3589.332
+Init pinv, alpha: 0.354, 1.000 / Estimate: 0.357, 1.839 / LogL: -3589.220
+Init pinv, alpha: 0.443, 1.000 / Estimate: 0.449, 4.669 / LogL: -3588.948
+Init pinv, alpha: 0.531, 1.000 / Estimate: 0.538, 998.287 / LogL: -3588.542
+Init pinv, alpha: 0.620, 1.000 / Estimate: 0.585, 998.421 / LogL: -3589.060
+Init pinv, alpha: 0.708, 1.000 / Estimate: 0.585, 998.439 / LogL: -3589.089
+Init pinv, alpha: 0.797, 1.000 / Estimate: 0.584, 998.441 / LogL: -3589.073
+Optimal pinv,alpha: 0.538, 998.287 / LogL: -3588.542
+
+Parameters optimization took 0.577 sec
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.00278335 secs using 192.6% CPU
+Computing ML distances took 0.002831 sec (of wall-clock time) 0.005409 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000260518 secs using 143.6% CPU
+Computing RapidNJ tree took 0.002759 sec (of wall-clock time) 0.000543 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -3600.467
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.127 second
+Computing log-likelihood of 98 initial trees ... 0.164 seconds
+Current best score: -3586.431
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+BETTER TREE FOUND at iteration 1: -3585.592
+BETTER TREE FOUND at iteration 2: -3585.592
+BETTER TREE FOUND at iteration 7: -3585.592
+Iteration 10 / LogL: -3586.316 / Time: 0h:0m:16s
+Iteration 20 / LogL: -3586.317 / Time: 0h:0m:17s
+Finish initializing candidate tree set (20)
+Current best tree score: -3585.592 / CPU time: 0.726
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Iteration 30 / LogL: -3588.269 / Time: 0h:0m:17s (0h:0m:46s left)
+Iteration 40 / LogL: -3586.422 / Time: 0h:0m:17s (0h:0m:30s left)
+Iteration 50 / LogL: -3585.611 / Time: 0h:0m:18s (0h:0m:21s left)
+Iteration 60 / LogL: -3585.596 / Time: 0h:0m:18s (0h:0m:14s left)
+Iteration 70 / LogL: -3585.601 / Time: 0h:0m:19s (0h:0m:10s left)
+Iteration 80 / LogL: -3585.601 / Time: 0h:0m:19s (0h:0m:6s left)
+Iteration 90 / LogL: -3585.601 / Time: 0h:0m:19s (0h:0m:3s left)
+Iteration 100 / LogL: -3585.602 / Time: 0h:0m:20s (0h:0m:1s left)
+TREE SEARCH COMPLETED AFTER 108 ITERATIONS / Time: 0h:0m:20s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -3585.592
+Optimal log-likelihood: -3585.591
+Rate parameters:  A-C: 0.98058  A-G: 6.83536  A-T: 0.78679  C-G: 0.11333  C-T: 8.21615  G-T: 1.00000
+Base frequencies:  A: 0.297  C: 0.184  G: 0.253  T: 0.267
+Proportion of invariable sites: 0.538
+Gamma shape alpha: 998.287
+Parameters optimization took 1 rounds (0.007 sec)
+BEST SCORE FOUND : -3585.591
+Total tree length: 0.298
+
+Total number of iterations: 108
+CPU time used for tree search: 8.130 sec (0h:0m:8s)
+Wall-clock time used for tree search: 4.279 sec (0h:0m:4s)
+Total CPU time used: 38.301 sec (0h:0m:38s)
+Total wall-clock time used: 20.723 sec (0h:0m:20s)
+
+Analysis results written to: 
+  IQ-TREE report:                GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007361.1_cds_YP_308668.1_8.iqtree
+  Maximum-likelihood tree:       GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007361.1_cds_YP_308668.1_8.treefile
+  Likelihood distances:          GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007361.1_cds_YP_308668.1_8.mldist
+  Screen log file:               GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007361.1_cds_YP_308668.1_8.log
+
+Date and Time: Tue Aug  5 20:40:17 2025

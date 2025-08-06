@@ -1,0 +1,129 @@
+IQ-TREE 2.4.0 built Feb 12 2025
+
+Input file name: GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308670.1_9-nodups.fasta
+Type of analysis: tree reconstruction
+Random seed number: 778878
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 9 sequences with 291 nucleotide sites
+Number of constant sites: 283 (= 97.2509% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 283 (= 97.2509% of all sites)
+Number of parsimony informative sites: 3
+Number of distinct site patterns: 12
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+I+G4
+
+Rate parameter R:
+
+  A-C: 20.3767
+  A-G: 100.0000
+  A-T: 0.0001
+  C-G: 0.0001
+  C-T: 18.7528
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.2566
+  pi(C) = 0.1932
+  pi(G) = 0.2722
+  pi(T) = 0.278
+
+Rate matrix Q:
+
+  A    -1.716    0.2168     1.499  1.531e-06
+  C     0.288   -0.5751  1.499e-06    0.2871
+  G     1.413  1.064e-06    -1.428   0.01531
+  T  1.413e-06    0.1995   0.01499   -0.2145
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.3242
+Gamma shape alpha: 0.02003
+
+ Category  Relative_rate  Proportion
+  0         0              0.3242
+  1         7.238e-31      0.169
+  2         1.548e-15      0.169
+  3         1.437e-06      0.169
+  4         5.919          0.169
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -458.6812 (s.e. 18.2929)
+Unconstrained log-likelihood (without tree): -443.1692
+Number of free parameters (#branches + #model parameters): 25
+Akaike information criterion (AIC) score: 967.3624
+Corrected Akaike information criterion (AICc) score: 972.2681
+Bayesian information criterion (BIC) score: 1059.1955
+
+Total tree length (sum of branch lengths): 0.0317
+Sum of internal branch lengths: 0.0107 (33.6741% of tree length)
+
+WARNING: 4 near-zero internal branches (<0.0034) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'PV792032_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds' is drawn at root
+
++**PV792032_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds
+|
+|                                             +**PV520594_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds
+|                                          +**|
+|                                          |  |  +------------------PV792048_1_Influenza_A_virus_A_Duck_NY_25_013275_004_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds
+|                                          |  +**|
+|                                          |     +------------------PV218284_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds
+|                                       +**|
+|                                       |  |  +------------------PV218268_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_010_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds
+|                                       |  +**|
+|                                       |     +------------------PV218332_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds
++---------------------------------------|
+|                                       +------------------PV218372_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds
+|
+|                  +------------------PV218924_1_Influenza_A_virus_A_cattle_CA_25_001525_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds
++------------------|
+                   +**PV218932_1_Influenza_A_virus_A_cattle_CA_25_001525_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds
+
+Tree in newick format:
+
+(PV792032_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds:0.0000010000,(((PV520594_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds:0.0000010000,(PV792048_1_Influenza_A_virus_A_Duck_NY_25_013275_004_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds:0.0034835838,PV218284_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds:0.0034830087):0.0000010000):0.0000010000,(PV218268_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_010_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds:0.0035371867,PV218332_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds:0.0035053247):0.0000010000):0.0000010000,PV218372_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds:0.0034836485):0.0071641287,(PV218924_1_Influenza_A_virus_A_cattle_CA_25_001525_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds:0.0035263801,PV218932_1_Influenza_A_virus_A_cattle_CA_25_001525_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds:0.0000010000):0.0035049637);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308670.1_9.treefile -m "GTR{20.3767,100,0.0001,0.0001,18.7528}+F{0.256586,0.193204,0.272241,0.277969}+I{0.324158}+G4{0.0200297}" --length 291
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308670.1_9-nodups.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308670.1_9-nodups.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Tue Aug  5 20:40:32 2025
+Total CPU time used: 13.7287 seconds (0h:0m:13s)
+Total wall-clock time used: 14.9756 seconds (0h:0m:14s)
+

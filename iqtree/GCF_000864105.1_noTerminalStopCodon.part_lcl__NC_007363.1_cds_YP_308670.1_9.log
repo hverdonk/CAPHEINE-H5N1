@@ -1,0 +1,136 @@
+IQ-TREE multicore version 2.4.0 for Linux ARM 64-bit built Feb 12 2025
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    node1 (SSE4.2, 250 GB RAM)
+Command: iqtree -s GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308670.1_9-nodups.fasta -m GTR+I+G -pre GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308670.1_9 -nt AUTO -ntmax 6 -mem 36GB
+Seed:    778878 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Aug  5 20:40:17 2025
+Kernel:  SSE2 - auto-detect threads (6 CPU cores detected)
+
+Reading alignment file GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308670.1_9-nodups.fasta ... Fasta format detected
+Reading fasta file: done in 0.000719919 secs
+Alignment most likely contains DNA/RNA sequences
+Alignment has 9 sequences with 291 columns, 12 distinct patterns
+3 parsimony-informative, 5 singleton sites, 283 constant sites
+                                                                                                                                                          Gap/Ambiguity  Composition  p-value
+Analyzing sequences: done in 7.2401e-06 secs
+   1  PV792032_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds          0.00%    passed    100.00%
+   2  PV520594_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds                        0.00%    passed    100.00%
+   3  PV218924_1_Influenza_A_virus_A_cattle_CA_25_001525_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds          0.00%    passed     99.43%
+   4  PV218932_1_Influenza_A_virus_A_cattle_CA_25_001525_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds          0.00%    passed     99.95%
+   5  PV792048_1_Influenza_A_virus_A_Duck_NY_25_013275_004_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds            0.00%    passed     99.76%
+   6  PV218268_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_010_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds    0.00%    passed     99.94%
+   7  PV218284_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds           0.00%    passed     99.91%
+   8  PV218332_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds      0.00%    passed     99.95%
+   9  PV218372_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_7_matrix_protein_2_M2_and_matrix_protein_1_M1_genes_complete_cds          0.00%    passed     99.76%
+****  TOTAL                                                                                                                                                       0.00%  0 sequences failed composition chi2 test (p-value<5%; df=3)
+
+Create initial parsimony tree by phylogenetic likelihood library (PLL)... 0.001 seconds
+
+NOTE: 0 MB RAM (0 GB) is required!
+Measuring multi-threading efficiency up to 6 CPU cores
+Increase to 10 rounds for branch lengths
+17946 trees examined
+Threads: 1 / Time: 6.000 sec / Speedup: 1.000 / Efficiency: 100% / LogL: -491
+WARNING: 2 threads for alignment length 12 will slow down analysis
+Threads: 2 / Time: 4.369 sec / Speedup: 1.373 / Efficiency: 69% / LogL: -491
+WARNING: 3 threads for alignment length 12 will slow down analysis
+Threads: 3 / Time: 4.368 sec / Speedup: 1.374 / Efficiency: 46% / LogL: -491
+BEST NUMBER OF THREADS: 2
+
+WARNING: 2 threads for alignment length 12 will slow down analysis
+Estimate model parameters (epsilon = 0.100)
+Thoroughly optimizing +I+G parameters from 10 start values...
+Init pinv, alpha: 0.000, 1.000 / Estimate: 0.000, 0.020 / LogL: -458.766
+Init pinv, alpha: 0.108, 1.000 / Estimate: 0.108, 0.020 / LogL: -458.726
+Init pinv, alpha: 0.216, 1.000 / Estimate: 0.216, 0.020 / LogL: -458.696
+Init pinv, alpha: 0.324, 1.000 / Estimate: 0.324, 0.020 / LogL: -458.681
+Init pinv, alpha: 0.432, 1.000 / Estimate: 0.432, 0.144 / LogL: -458.688
+Init pinv, alpha: 0.540, 1.000 / Estimate: 0.540, 0.279 / LogL: -458.696
+Init pinv, alpha: 0.648, 1.000 / Estimate: 0.648, 0.552 / LogL: -458.702
+Init pinv, alpha: 0.756, 1.000 / Estimate: 0.756, 1.668 / LogL: -458.701
+Init pinv, alpha: 0.864, 1.000 / Estimate: 0.863, 998.439 / LogL: -458.705
+Init pinv, alpha: 0.973, 1.000 / Estimate: 0.919, 998.447 / LogL: -459.092
+Optimal pinv,alpha: 0.324, 0.020 / LogL: -458.681
+
+Parameters optimization took 0.030 sec
+
+WARNING: Estimated model parameters are at boundary that can cause numerical instability!
+
+Wrote distance file to... 
+Computing ML distances based on estimated model parameters...
+Calculating distance matrix: done in 0.000648799 secs using 185% CPU
+Computing ML distances took 0.000702 sec (of wall-clock time) 0.001248 sec (of CPU time)
+Setting up auxiliary I and S matrices: done in 0.000100239 secs using 98.76% CPU
+Computing RapidNJ tree took 0.000701 sec (of wall-clock time) 0.000717 sec (of CPU time)
+Log-likelihood of RapidNJ tree: -458.685
+--------------------------------------------------------------------
+|             INITIALIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+Generating 98 parsimony trees... 0.014 second
+Computing log-likelihood of 96 initial trees ... 0.015 seconds
+Current best score: -458.681
+
+Do NNI search on 20 best initial trees
+Estimate model parameters (epsilon = 0.100)
+
+WARNING: Estimated model parameters are at boundary that can cause numerical instability!
+
+BETTER TREE FOUND at iteration 1: -458.681
+BETTER TREE FOUND at iteration 8: -458.681
+Iteration 10 / LogL: -458.681 / Time: 0h:0m:14s
+BETTER TREE FOUND at iteration 12: -458.681
+Iteration 20 / LogL: -458.681 / Time: 0h:0m:14s
+Finish initializing candidate tree set (17)
+Current best tree score: -458.681 / CPU time: 0.042
+Number of iterations: 20
+--------------------------------------------------------------------
+|               OPTIMIZING CANDIDATE TREE SET                      |
+--------------------------------------------------------------------
+BETTER TREE FOUND at iteration 23: -458.681
+Iteration 30 / LogL: -458.681 / Time: 0h:0m:14s (0h:0m:47s left)
+Iteration 40 / LogL: -458.681 / Time: 0h:0m:14s (0h:0m:31s left)
+Iteration 50 / LogL: -458.681 / Time: 0h:0m:14s (0h:0m:22s left)
+Iteration 60 / LogL: -458.681 / Time: 0h:0m:14s (0h:0m:15s left)
+Iteration 70 / LogL: -458.681 / Time: 0h:0m:14s (0h:0m:11s left)
+Iteration 80 / LogL: -458.681 / Time: 0h:0m:14s (0h:0m:8s left)
+Iteration 90 / LogL: -458.682 / Time: 0h:0m:14s (0h:0m:5s left)
+UPDATE BEST LOG-LIKELIHOOD: -458.681
+Iteration 100 / LogL: -458.681 / Time: 0h:0m:14s (0h:0m:3s left)
+Iteration 110 / LogL: -464.290 / Time: 0h:0m:14s (0h:0m:1s left)
+Iteration 120 / LogL: -464.290 / Time: 0h:0m:14s (0h:0m:0s left)
+TREE SEARCH COMPLETED AFTER 124 ITERATIONS / Time: 0h:0m:14s
+
+--------------------------------------------------------------------
+|                    FINALIZING TREE SEARCH                        |
+--------------------------------------------------------------------
+Performs final model parameters optimization
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -458.681
+Optimal log-likelihood: -458.681
+Rate parameters:  A-C: 20.37671  A-G: 100.00000  A-T: 0.00010  C-G: 0.00010  C-T: 18.75283  G-T: 1.00000
+Warning! Some parameters hit the boundaries
+Base frequencies:  A: 0.257  C: 0.193  G: 0.272  T: 0.278
+Proportion of invariable sites: 0.324
+Gamma shape alpha: 0.020
+Parameters optimization took 1 rounds (0.001 sec)
+
+WARNING: Estimated model parameters are at boundary that can cause numerical instability!
+
+BEST SCORE FOUND : -458.681
+Total tree length: 0.032
+
+Total number of iterations: 124
+CPU time used for tree search: 0.211 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.181 sec (0h:0m:0s)
+Total CPU time used: 13.729 sec (0h:0m:13s)
+Total wall-clock time used: 14.974 sec (0h:0m:14s)
+
+Analysis results written to: 
+  IQ-TREE report:                GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308670.1_9.iqtree
+  Maximum-likelihood tree:       GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308670.1_9.treefile
+  Likelihood distances:          GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308670.1_9.mldist
+  Screen log file:               GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308670.1_9.log
+
+Date and Time: Tue Aug  5 20:40:32 2025

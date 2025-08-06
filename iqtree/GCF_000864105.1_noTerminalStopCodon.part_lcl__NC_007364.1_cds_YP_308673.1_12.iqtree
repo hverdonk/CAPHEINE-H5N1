@@ -1,0 +1,157 @@
+IQ-TREE 2.4.0 built Feb 12 2025
+
+Input file name: GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007364.1_cds_YP_308673.1_12-nodups.fasta
+Type of analysis: tree reconstruction
+Random seed number: 738868
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 23 sequences with 690 nucleotide sites
+Number of constant sites: 612 (= 88.6957% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 612 (= 88.6957% of all sites)
+Number of parsimony informative sites: 61
+Number of distinct site patterns: 49
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+I+G4
+
+Rate parameter R:
+
+  A-C: 2.2713
+  A-G: 9.2418
+  A-T: 1.3365
+  C-G: 0.2071
+  C-T: 12.4390
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.3009
+  pi(C) = 0.2211
+  pi(G) = 0.2503
+  pi(T) = 0.2277
+
+Rate matrix Q:
+
+  A   -0.9549    0.1537     0.708   0.09314
+  C    0.2092    -1.092   0.01587    0.8669
+  G    0.8514   0.01402   -0.9351   0.06969
+  T    0.1231    0.8419   0.07661    -1.042
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.6925
+Gamma shape alpha: 998.7
+
+ Category  Relative_rate  Proportion
+  0         0              0.6925
+  1         3.122          0.07688
+  2         3.217          0.07688
+  3         3.284          0.07688
+  4         3.383          0.07688
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -1449.3845 (s.e. 49.8684)
+Unconstrained log-likelihood (without tree): -1348.9598
+Number of free parameters (#branches + #model parameters): 53
+Akaike information criterion (AIC) score: 3004.7689
+Corrected Akaike information criterion (AICc) score: 3013.7689
+Bayesian information criterion (BIC) score: 3245.2136
+
+Total tree length (sum of branch lengths): 0.1497
+Sum of internal branch lengths: 0.1103 (73.7116% of tree length)
+
+WARNING: 13 near-zero internal branches (<0.0014) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'PV792033_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds' is drawn at root
+
++**PV792033_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|
+|              +---PV792281_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|           +--|
+|           |  +**PV218901_1_Influenza_A_virus_A_cattle_CA_25_000605_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|        +**|
+|        |  +--PV218909_1_Influenza_A_virus_A_cattle_CA_25_001132_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|     +**|
+|     |  +**PV218893_1_Influenza_A_virus_A_cattle_CA_25_000603_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|  +--|
+|  |  |                                                                        +--PV520595_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|  |  |                                                                     +**|
+|  |  |                                                                     |  +--PV218229_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|  |  |                                                                  +**|
+|  |  |                                                                  |  +--PV218237_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_005_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|  |  |                                                               +**|
+|  |  |                                                               |  +**PV336656_1_Influenza_A_virus_A_Common_Raven_CA_25_003340_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|  |  |                                                            +**|
+|  |  |                                                            |  |        +**PV792041_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|  |  |                                                            |  |     +--|
+|  |  |                                                            |  |     |  +--PV792065_1_Influenza_A_virus_A_Partridge_NY_25_013275_009_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|  |  |                                                            |  |  +--|
+|  |  |                                                            |  |  |  |  +--PV218333_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|  |  |                                                            |  |  |  +**|
+|  |  |                                                            |  |  |     +--PV219189_1_Influenza_A_virus_A_goose_MD_25_001223_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|  |  |                                                            |  +**|
+|  |  |                                                            |     |  +**PV218389_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|  |  |                                                            |     +--|
+|  |  |                                                            |        +--PV218405_1_Influenza_A_virus_A_Turkey_OH_25_001057_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|  |  |                                                         +**|
+|  |  |                                                         |  |  +--PV218213_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|  |  |                                                         |  +**|
+|  |  |                                                         |     +--PV218325_1_Influenza_A_virus_A_Great_Horned_Owl_IA_25_000440_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|  |  |                                                      +**|
+|  |  |                                                      |  |  +--PV218285_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|  |  |                                                      |  +**|
+|  |  |                                                      |     +--PV218373_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|  |  |                                                   +--|
+|  |  |                                                   |  +--PV218197_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|  |  +---------------------------------------------------|
+|  |                                                      +**PV218205_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
++**|
+|  +**PV792401_1_Influenza_A_virus_A_cattle_ID_25_012902_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+|
++**PV792449_1_Influenza_A_virus_A_cattle_ID_25_012902_007_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds
+
+Tree in newick format:
+
+(PV792033_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0000010022,(((((PV792281_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0073928069,PV218901_1_Influenza_A_virus_A_cattle_CA_25_000605_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0014247998):0.0014835928,PV218909_1_Influenza_A_virus_A_cattle_CA_25_001132_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0043764133):0.0000010022,PV218893_1_Influenza_A_virus_A_cattle_CA_25_000603_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0000010022):0.0000010022,((((((((PV520595_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0029096719,PV218229_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0029092224):0.0000010022,PV218237_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_005_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0014513815):0.0000010022,PV336656_1_Influenza_A_virus_A_Common_Raven_CA_25_003340_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0000010022):0.0000010022,(((PV792041_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0000010022,PV792065_1_Influenza_A_virus_A_Partridge_NY_25_013275_009_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0014499439):0.0014499705,(PV218333_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0014571917,PV219189_1_Influenza_A_virus_A_goose_MD_25_001223_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0014501694):0.0000010022):0.0029096419,(PV218389_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0000010022,PV218405_1_Influenza_A_virus_A_Turkey_OH_25_001057_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0014510269):0.0043941047):0.0000010022):0.0000010022,(PV218213_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0014497203,PV218325_1_Influenza_A_virus_A_Great_Horned_Owl_IA_25_000440_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0014568436):0.0000010022):0.0000010022,(PV218285_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0029090695,PV218373_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0029100155):0.0000010022):0.0000010022,PV218197_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0014500282):0.0043781368,PV218205_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0000010022):0.0928026213):0.0029046074,PV792401_1_Influenza_A_virus_A_cattle_ID_25_012902_001_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0014477253):0.0000010022,PV792449_1_Influenza_A_virus_A_cattle_ID_25_012902_007_original_2025_H5N1_segment_8_nuclear_export_protein_NEP_and_nonstructural_protein_1_NS1_genes_complete_cds:0.0014478605);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007364.1_cds_YP_308673.1_12.treefile -m "GTR{2.27128,9.24175,1.33648,0.207119,12.439}+F{0.300945,0.221109,0.250284,0.227662}+I{0.692471}+G4{998.663}" --length 690
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007364.1_cds_YP_308673.1_12-nodups.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007364.1_cds_YP_308673.1_12-nodups.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Tue Aug  5 20:40:26 2025
+Total CPU time used: 20.7636 seconds (0h:0m:20s)
+Total wall-clock time used: 15.2416 seconds (0h:0m:15s)
+

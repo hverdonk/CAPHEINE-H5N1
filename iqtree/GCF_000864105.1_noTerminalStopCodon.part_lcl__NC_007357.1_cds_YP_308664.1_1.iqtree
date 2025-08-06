@@ -1,0 +1,189 @@
+IQ-TREE 2.4.0 built Feb 12 2025
+
+Input file name: GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007357.1_cds_YP_308664.1_1-nodups.fasta
+Type of analysis: tree reconstruction
+Random seed number: 717028
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 39 sequences with 2277 nucleotide sites
+Number of constant sites: 1817 (= 79.798% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 1817 (= 79.798% of all sites)
+Number of parsimony informative sites: 407
+Number of distinct site patterns: 134
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: GTR+F+I+G4
+
+Rate parameter R:
+
+  A-C: 3.1675
+  A-G: 11.3836
+  A-T: 1.3740
+  C-G: 0.0001
+  C-T: 19.8942
+  G-T: 1.0000
+
+State frequencies: (empirical counts from alignment)
+
+  pi(A) = 0.3364
+  pi(C) = 0.1932
+  pi(G) = 0.2591
+  pi(T) = 0.2114
+
+Rate matrix Q:
+
+  A   -0.8905    0.1415    0.6819   0.06714
+  C    0.2463    -1.218  5.99e-06    0.9721
+  G    0.8853  4.467e-06   -0.9341   0.04886
+  T    0.1069    0.8886    0.0599    -1.055
+
+Model of rate heterogeneity: Invar+Gamma with 4 categories
+Proportion of invariable sites: 0.537
+Gamma shape alpha: 5.461
+
+ Category  Relative_rate  Proportion
+  0         0              0.537
+  1         1.123          0.1158
+  2         1.759          0.1158
+  3         2.338          0.1158
+  4         3.419          0.1158
+Relative rates are computed as MEAN of the portion of the Gamma distribution falling in the category.
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -5571.6232 (s.e. 100.7626)
+Unconstrained log-likelihood (without tree): -5290.3579
+Number of free parameters (#branches + #model parameters): 85
+Akaike information criterion (AIC) score: 11313.2464
+Corrected Akaike information criterion (AICc) score: 11319.9192
+Bayesian information criterion (BIC) score: 11800.3486
+
+Total tree length (sum of branch lengths): 0.3271
+Sum of internal branch lengths: 0.2878 (87.9845% of tree length)
+
+WARNING: 20 near-zero internal branches (<0.0004) should be treated with caution
+         Such branches are denoted by '**' in the figure below
+
+NOTE: Tree is UNROOTED although outgroup taxon 'PV792026_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds' is drawn at root
+
++--PV792026_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|
+|              +--PV792274_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|           +**|
+|           |  +--PV218894_1_Influenza_A_virus_A_cattle_CA_25_000605_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        +**|
+|        |  |                  +**PV520596_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |               +--|
+|        |  |               |  +--PV520600_1_Influenza_A_virus_A_cattle_Nevada_WD_210_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |            +**|
+|        |  |            |  |  +--PV218206_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |            |  +**|
+|        |  |            |     +**PV218246_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_007_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     +------|
+|        |  |     |      |              +--PV792034_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |      |           +**|
+|        |  |     |      |           |  +--PV218326_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |      |        +--|
+|        |  |     |      |        |  +--PV219182_1_Influenza_A_virus_A_goose_MD_25_001223_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |      |     +--|
+|        |  |     |      |     |  |  +--PV336649_1_Influenza_A_virus_A_Common_Raven_CA_25_003340_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |      |     |  +**|
+|        |  |     |      |     |     |        +**PV218190_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |      |     |     |     +**|
+|        |  |     |      |     |     |     |  |  +--PV218278_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |      |     |     |     |  +**|
+|        |  |     |      |     |     |     |     +--PV218286_1_Influenza_A_virus_A_Duck_IL_25_000617_002_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |      |     |     |  +--|
+|        |  |     |      |     |     |  |  +--PV218262_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_010_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |      |     |     +**|
+|        |  |     |      |     |        |                                                     +--PV218198_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |      |     |        |  +--------------------------------------------------|
+|        |  |     |      |     |        |  |                                                  +--PV218270_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_011_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |      |     |        +**|
+|        |  |     |      |     |           +--PV218366_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |      |  +**|
+|        |  |     |      |  |  +--PV218318_1_Influenza_A_virus_A_Great_Horned_Owl_IA_25_000440_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |      +**|
+|        |  |     |         |  +--PV218222_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |         +**|
+|        |  |     |            |  +--PV218230_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_005_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |            +--|
+|        |  |     |               |  +--PV218382_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |               +--|
+|        |  |     |                  |  +--PV218390_1_Influenza_A_virus_A_Turkey_OH_25_001057_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |                  +**|
+|        |  |     |                     |        +--PV218430_1_Influenza_A_virus_A_Turkey_OH_25_001328_002_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |                     |     +--|
+|        |  |     |                     |     |  +**PV218438_1_Influenza_A_virus_A_Turkey_OH_25_001328_003_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |                     |  +**|
+|        |  |     |                     |  |  +**PV218494_1_Influenza_A_virus_A_Turkey_OH_25_001338_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |     |                     +--|
+|        |  |     |                        +--PV218526_1_Influenza_A_virus_A_Turkey_OH_25_001341_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  |  +--|
+|        |  |  |  +**PV218918_1_Influenza_A_virus_A_cattle_CA_25_001525_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |  +**|
+|        |     |  +**PV218886_1_Influenza_A_virus_A_cattle_CA_25_000603_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|        |     +--|
+|        |        +--PV218902_1_Influenza_A_virus_A_cattle_CA_25_001132_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|     +--|
+|     |  +**PV218926_1_Influenza_A_virus_A_cattle_CA_25_001525_002_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|  +--|
+|  |  |           +--PV792394_1_Influenza_A_virus_A_cattle_ID_25_012902_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|  |  |        +**|
+|  |  |        |  +--PV792402_1_Influenza_A_virus_A_cattle_ID_25_012902_002_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|  |  |     +**|
+|  |  |     |  +**PV792442_1_Influenza_A_virus_A_cattle_ID_25_012902_007_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|  |  |  +**|
+|  |  |  |  +--PV792490_1_Influenza_A_virus_A_cattle_ID_25_012906_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|  |  +--|
+|  |     +--PV792410_1_Influenza_A_virus_A_cattle_ID_25_012902_003_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
++--|
+|  +--PV792530_1_Influenza_A_virus_A_cattle_ID_25_012952_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+|
+|  +**PV792498_1_Influenza_A_virus_A_cattle_ID_25_012909_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
++**|
+   +--PV792546_1_Influenza_A_virus_A_cattle_ID_25_012952_005_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds
+
+Tree in newick format:
+
+(PV792026_1_Influenza_A_virus_A_cattle_ID_25_012907_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0004401130,(((((PV792274_1_Influenza_A_virus_A_cattle_CA_25_012917_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0022052246,PV218894_1_Influenza_A_virus_A_cattle_CA_25_000605_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0004403560):0.0000023344,(((((PV520596_1_Influenza_A_virus_A_cattle_Nevada_NV_7_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0000010008,PV520600_1_Influenza_A_virus_A_cattle_Nevada_WD_210_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0004402095):0.0022102280,(PV218206_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_002_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0013216149,PV218246_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_007_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0000010008):0.0000010008):0.0004391164,(((((PV792034_1_Influenza_A_virus_A_Duck_NY_25_012798_007_original_repeat_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0026525054,PV218326_1_Influenza_A_virus_A_Guineafowl_TN_25_001531_002_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0026501051):0.0000010008,PV219182_1_Influenza_A_virus_A_goose_MD_25_001223_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0013228578):0.0008805732,(PV336649_1_Influenza_A_virus_A_Common_Raven_CA_25_003340_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0026508619,(((PV218190_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0000010008,(PV218278_1_Influenza_A_virus_A_Crane_VA_25_001494_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0026504730,PV218286_1_Influenza_A_virus_A_Duck_IL_25_000617_002_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0008796985):0.0000010008):0.0000020693,PV218262_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_010_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0008794021):0.0008824137,((PV218198_1_Influenza_A_virus_A_Bald_Eagle_IA_25_001479_002_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0014195421,PV218270_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_011_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0021224026):0.2401591377,PV218366_1_Influenza_A_virus_A_Turkey_MN_25_001440_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0039837813):0.0000026724):0.0004389148):0.0000027193):0.0004401497,PV218318_1_Influenza_A_virus_A_Great_Horned_Owl_IA_25_000440_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0008806865):0.0000021175,(PV218222_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_004_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0030946724,(PV218230_1_Influenza_A_virus_A_Canada_Goose_IL_25_000616_005_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0013299410,(PV218382_1_Influenza_A_virus_A_Turkey_OH_25_001054_002_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0004399206,(PV218390_1_Influenza_A_virus_A_Turkey_OH_25_001057_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0004399414,(((PV218430_1_Influenza_A_virus_A_Turkey_OH_25_001328_002_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0004400092,PV218438_1_Influenza_A_virus_A_Turkey_OH_25_001328_003_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0000010008):0.0004399486,PV218494_1_Influenza_A_virus_A_Turkey_OH_25_001338_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0000010008):0.0000010008,PV218526_1_Influenza_A_virus_A_Turkey_OH_25_001341_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0004399379):0.0004399381):0.0000010008):0.0022141881):0.0008791919):0.0000020600):0.0000026707):0.0352846061,PV218918_1_Influenza_A_virus_A_cattle_CA_25_001525_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0000021831):0.0004402078,(PV218886_1_Influenza_A_virus_A_cattle_CA_25_000603_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0000010008,PV218902_1_Influenza_A_virus_A_cattle_CA_25_001132_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0026510109):0.0004403378):0.0000027085):0.0000029285,PV218926_1_Influenza_A_virus_A_cattle_CA_25_001525_002_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0004385867):0.0004420412,((((PV792394_1_Influenza_A_virus_A_cattle_ID_25_012902_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0004401654,PV792402_1_Influenza_A_virus_A_cattle_ID_25_012902_002_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0004401979):0.0000010008,PV792442_1_Influenza_A_virus_A_cattle_ID_25_012902_007_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0000010008):0.0000010008,PV792490_1_Influenza_A_virus_A_cattle_ID_25_012906_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0004403149):0.0000010008,PV792410_1_Influenza_A_virus_A_cattle_ID_25_012902_003_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0004402074):0.0004397464):0.0008804371,PV792530_1_Influenza_A_virus_A_cattle_ID_25_012952_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0008810088):0.0004406555,(PV792498_1_Influenza_A_virus_A_cattle_ID_25_012909_001_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0000010008,PV792546_1_Influenza_A_virus_A_cattle_ID_25_012952_005_original_2025_H5N1_segment_1_polymerase_PB2_PB2_gene_complete_cds:0.0004401334):0.0000010008);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007357.1_cds_YP_308664.1_1.treefile -m "GTR{3.16749,11.3836,1.37404,0.0001,19.8942}+F{0.336363,0.193203,0.259079,0.211355}+I{0.536976}+G4{5.46089}" --length 2277
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007357.1_cds_YP_308664.1_1-nodups.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007357.1_cds_YP_308664.1_1-nodups.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Tue Aug  5 20:40:34 2025
+Total CPU time used: 59.7218 seconds (0h:0m:59s)
+Total wall-clock time used: 31.7808 seconds (0h:0m:31s)
+
