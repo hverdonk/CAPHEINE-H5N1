@@ -1,0 +1,30 @@
+CAWLIGN:
+  cawlign: null
+DRHIP:
+  drhip: 0.1.1
+HYPHY_BUSTED:
+  hyphy: 2.5.73(MP) for Linux on aarch64 ARM Neon SIMD zlib (v1.2.11)
+HYPHY_CLN:
+  hyphy: 2.5.73(MP) for Linux on aarch64 ARM Neon SIMD zlib (v1.2.11)
+HYPHY_CONTRASTFEL:
+  hyphy: HYPHY 2.5.73(MP) for Linux on aarch64 ARM Neon SIMD zlib (v1.2.11)
+HYPHY_FEL:
+  hyphy: 2.5.73(MP) for Linux on aarch64 ARM Neon SIMD zlib (v1.2.11)
+HYPHY_LABELTREE_REGEXP:
+  hyphy: 2.5.73(MP) for Linux on aarch64 ARM Neon SIMD zlib (v1.2.11)
+HYPHY_MEME:
+  hyphy: 2.5.73(MP) for Linux on aarch64 ARM Neon SIMD zlib (v1.2.11)
+HYPHY_PRIME:
+  hyphy: 2.5.73(MP) for Linux on aarch64 ARM Neon SIMD zlib (v1.2.11)
+HYPHY_RELAX:
+  hyphy: 2.5.73(MP) for Linux on aarch64 ARM Neon SIMD zlib (v1.2.11)
+IQTREE:
+  iqtree: 2.4.0
+REMOVEAMBIGSEQS:
+  python: 3.13.3
+  biopython: 1.85
+SEQKIT_SPLIT:
+  seqkit: 2.10.0
+Workflow:
+    veg/CAPHEINE: v1.1
+    Nextflow: 25.04.6
