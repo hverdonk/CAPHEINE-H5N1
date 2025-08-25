@@ -1,0 +1,12 @@
+CAWLIGN:
+  cawlign: null
+HYPHY_CLN:
+  hyphy: 2.5.73(MP) for Linux on aarch64 ARM Neon SIMD zlib (v1.2.11)
+REMOVEAMBIGSEQS:
+  python: 3.13.3
+  biopython: 1.85
+SEQKIT_SPLIT:
+  seqkit: 2.10.0
+Workflow:
+    veg/CAPHEINE: v1.1
+    Nextflow: 25.04.6

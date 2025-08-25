@@ -1,0 +1,2 @@
+task_id	hash	native_id	name	status	exit	submit	duration	realtime	%cpu	peak_rss	peak_vmem	rchar	wchar
+1	c5/e0e1dc	494907	HYPHY_CAPHEINE:CAPHEINE:PROCESS_VIRAL_NONRECOMBINANT:SEQKIT_SPLIT ($ref_fasta)	ABORTED	-	2025-08-20 12:23:12.510	-	-	-	-	-	-	-

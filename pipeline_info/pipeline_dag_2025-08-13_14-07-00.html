@@ -1,0 +1,223 @@
+<!--
+  ~ Copyright 2013-2024, Seqera Labs
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<html>
+<head>
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+</head>
+<body>
+<pre class="mermaid" style="text-align: center;">
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'primaryColor': '#B6ECE2',
+      'primaryTextColor': '#160F26',
+      'primaryBorderColor': '#065647',
+      'lineColor': '#545555',
+      'clusterBkg': '#BABCBD22',
+      'clusterBorder': '#DDDEDE',
+      'fontFamily': 'arial'
+    }
+  }
+}%%
+flowchart TB
+    subgraph " "
+    v17["ch_reference"]
+    v21["ch_unaligned"]
+    v51["ch_foreground_regexp"]
+    v73["branch_set_tag"]
+    v76["test_tag"]
+    v101["Channel.of"]
+    v104["Channel.fromPath"]
+    v107["ch_workflow_summary"]
+    v111["ch_methods_description"]
+    v118["replace_names"]
+    v119["sample_names"]
+    end
+    subgraph "HYPHY_CAPHEINE [HYPHY_CAPHEINE]"
+    subgraph "HYPHY_CAPHEINE:CAPHEINE [CAPHEINE]"
+    subgraph "HYPHY_CAPHEINE:CAPHEINE:PROCESS_VIRAL_NONRECOMBINANT [PROCESS_VIRAL_NONRECOMBINANT]"
+    v18(["SEQKIT_SPLIT"])
+    v22(["CAWLIGN"])
+    v24(["REMOVEAMBIGSEQS"])
+    v26(["HYPHY_CLN"])
+    v28(["IQTREE"])
+    v52(["HYPHY_LABELTREE_REGEXP"])
+    v19(( ))
+    v20(( ))
+    v54(( ))
+    end
+    subgraph "HYPHY_CAPHEINE:CAPHEINE:HYPHY_ANALYSES [HYPHY_ANALYSES]"
+    v63(["HYPHY_FEL"])
+    v65(["HYPHY_MEME"])
+    v67(["HYPHY_PRIME"])
+    v69(["HYPHY_BUSTED"])
+    v74(["HYPHY_CONTRASTFEL"])
+    v77(["HYPHY_RELAX"])
+    v64(( ))
+    v71(( ))
+    end
+    v92(["DRHIP"])
+    v120(["MULTIQC"])
+    v56(( ))
+    v58(( ))
+    v80(( ))
+    v82(( ))
+    v84(( ))
+    v86(( ))
+    v88(( ))
+    v90(( ))
+    v115(( ))
+    v116(( ))
+    v117(( ))
+    v124(( ))
+    end
+    end
+    subgraph " "
+    v29[" "]
+    v30[" "]
+    v31[" "]
+    v32[" "]
+    v33[" "]
+    v34[" "]
+    v35[" "]
+    v36[" "]
+    v37[" "]
+    v38[" "]
+    v39[" "]
+    v40[" "]
+    v41[" "]
+    v42[" "]
+    v43[" "]
+    v44[" "]
+    v45[" "]
+    v46[" "]
+    v47[" "]
+    v48[" "]
+    v49[" "]
+    v55[" "]
+    v72[" "]
+    v93["comparison_site_csv"]
+    v94["comparison_summary_csv"]
+    v95["sites_csv"]
+    v96["summary_csv"]
+    v121[" "]
+    v122[" "]
+    v123[" "]
+    v126[" "]
+    end
+    subgraph "PIPELINE_COMPLETION [PIPELINE_COMPLETION]"
+    v125(( ))
+    end
+    v17 --> v18
+    v18 --> v19
+    v18 --> v20
+    v21 --> v22
+    v20 --> v22
+    v22 --> v24
+    v22 --> v19
+    v24 --> v26
+    v24 --> v19
+    v26 --> v28
+    v26 --> v19
+    v26 --> v56
+    v28 --> v52
+    v28 --> v49
+    v28 --> v48
+    v28 --> v47
+    v28 --> v46
+    v28 --> v45
+    v28 --> v44
+    v28 --> v43
+    v28 --> v42
+    v28 --> v41
+    v28 --> v40
+    v28 --> v39
+    v28 --> v38
+    v28 --> v37
+    v28 --> v36
+    v28 --> v35
+    v28 --> v34
+    v28 --> v33
+    v28 --> v32
+    v28 --> v31
+    v28 --> v30
+    v28 --> v29
+    v28 --> v19
+    v51 --> v52
+    v52 --> v19
+    v52 --> v54
+    v52 --> v56
+    v54 --> v55
+    v56 --> v63
+    v63 --> v64
+    v63 --> v84
+    v56 --> v65
+    v65 --> v64
+    v65 --> v86
+    v56 --> v67
+    v67 --> v64
+    v67 --> v88
+    v56 --> v69
+    v69 --> v64
+    v69 --> v90
+    v71 --> v72
+    v73 --> v74
+    v56 --> v74
+    v74 --> v64
+    v74 --> v80
+    v76 --> v77
+    v56 --> v77
+    v77 --> v64
+    v77 --> v82
+    v80 --> v92
+    v82 --> v92
+    v84 --> v92
+    v86 --> v92
+    v88 --> v92
+    v90 --> v92
+    v92 --> v96
+    v92 --> v95
+    v92 --> v94
+    v92 --> v93
+    v92 --> v58
+    v101 --> v58
+    v104 --> v115
+    v107 --> v58
+    v111 --> v58
+    v118 --> v120
+    v119 --> v120
+    v58 --> v120
+    v115 --> v120
+    v116 --> v120
+    v117 --> v120
+    v120 --> v123
+    v120 --> v122
+    v120 --> v121
+    v120 --> v124
+    v125 --> v126
+    v19 --> v58
+    v56 --> v71
+    v64 --> v58
+    v124 --> v125
+
+</pre>
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  mermaid.initialize({ startOnLoad: true, maxTextSize: Number.MAX_SAFE_INTEGER, maxEdges: Number.MAX_SAFE_INTEGER });
+</script>
+</body>
+</html>
