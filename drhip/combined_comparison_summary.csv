@@ -1,4 +1,4 @@
-gene,gene,protein,comparison_group,group_dN/dS,group_T,group_N,group_aa_conserved
+fasta_id,gene,protein,comparison_group,group_dN/dS,group_T,group_N,group_aa_conserved
 GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007357.1_cds_YP_308664.1_1,PB2,polymerase,Reference,0.05989875,3.631809739,1602,5
 GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007357.1_cds_YP_308664.1_1,PB2,polymerase,background,0.131561935,6.013549192,4340,5
 GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007357.1_cds_YP_308664.1_1,PB2,polymerase,Foreground,0.179575779,0.104215124,195,5

@@ -1,4 +1,4 @@
-gene,gene,protein,site,comparison_group,cfel_marker,cfel_beta
+fasta_id,gene,protein,site,comparison_group,cfel_marker,cfel_beta
 GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007357.1_cds_YP_308664.1_1,PB2,polymerase,1,Reference,-,0
 GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007357.1_cds_YP_308664.1_1,PB2,polymerase,1,background,-,0
 GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007357.1_cds_YP_308664.1_1,PB2,polymerase,1,Foreground,-,0
