@@ -1,37 +1,37 @@
-fasta_id,gene,protein,comparison_group,group_dN/dS,group_T,group_N,group_aa_conserved
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007357.1_cds_YP_308664.1_1,PB2,polymerase,Reference,0.05989875,3.631809739,1602,5
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007357.1_cds_YP_308664.1_1,PB2,polymerase,background,0.131561935,6.013549192,4340,5
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007357.1_cds_YP_308664.1_1,PB2,polymerase,Foreground,0.179575779,0.104215124,195,5
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007358.1_cds_YP_308665.1_2,PB1,polymerase,Reference,0.063214487,2.950893535,1579,5
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007358.1_cds_YP_308665.1_2,PB1,polymerase,background,0.105532501,6.253642797,4235,5
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007358.1_cds_YP_308665.1_2,PB1,polymerase,Foreground,0.133717378,0.093609117,175,5
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007358.1_cds_YP_473348.1_3,PB1-F2,PB1-F2 protein,Reference,5.438666502,2.199092092,367,1
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007358.1_cds_YP_473348.1_3,PB1-F2,PB1-F2 protein,background,3.685078262,6.40992404,1282,1
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007358.1_cds_YP_473348.1_3,PB1-F2,PB1-F2 protein,Foreground,3.224873654,0.190087753,16,1
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007359.1_cds_YP_006495800.1_5,PA-X,PA-X protein,Reference,0.149377211,2.408529397,807,2
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007359.1_cds_YP_006495800.1_5,PA-X,PA-X protein,background,0.245216845,5.834447997,2617,2
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007359.1_cds_YP_006495800.1_5,PA-X,PA-X protein,Foreground,0.819310781,0.371545524,67,2
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007359.1_cds_YP_308666.1_4,PA,polymerase,Reference,0.091054404,2.953284759,1586,3
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007359.1_cds_YP_308666.1_4,PA,polymerase,background,0.155151193,5.997527308,4358,3
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007359.1_cds_YP_308666.1_4,PA,polymerase,Foreground,0.204869151,0.101220231,166,3
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007360.1_cds_YP_308667.1_7,NP,nucleocapsid protein,Reference,0.044375378,2.688246525,1205,6
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007360.1_cds_YP_308667.1_7,NP,nucleocapsid protein,background,0.102574891,4.893551302,3421,6
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007360.1_cds_YP_308667.1_7,NP,nucleocapsid protein,Foreground,0.150269944,0.080153582,102,6
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007361.1_cds_YP_308668.1_8,NA,neuraminidase,Reference,0.186136778,4.263271259,1466,2
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007361.1_cds_YP_308668.1_8,NA,neuraminidase,background,0.257946577,7.893161581,4093,2
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007361.1_cds_YP_308668.1_8,NA,neuraminidase,Foreground,0.234530466,0.114124888,123,2
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007362.1_cds_YP_308669.1_6,HA,hemagglutinin,Reference,0.135748918,3.769913049,1798,4
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007362.1_cds_YP_308669.1_6,HA,hemagglutinin,background,0.187105799,7.88825862,4639,4
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007362.1_cds_YP_308669.1_6,HA,hemagglutinin,Foreground,0.260950431,0.100592026,133,4
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308670.1_9,M2,matrix protein 2,Reference,0.778175565,1.189997828,259,1
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308670.1_9,M2,matrix protein 2,background,0.685752445,3.278009507,1020,1
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308670.1_9,M2,matrix protein 2,Foreground,0.795627522,0.010348866,4,1
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308671.1_10,M1,matrix protein 1,Reference,0.05319144,1.773342588,631,8
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308671.1_10,M1,matrix protein 1,background,0.088891181,3.930247975,2096,8
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308671.1_10,M1,matrix protein 1,Foreground,0.062671382,0.061214973,46,8
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007364.1_cds_YP_308672.1_11,NEP,nonstructural protein 2,Reference,0.306113097,2.060241981,404,3
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007364.1_cds_YP_308672.1_11,NEP,nonstructural protein 2,background,0.415791758,4.335376672,1477,3
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007364.1_cds_YP_308672.1_11,NEP,nonstructural protein 2,Foreground,0.395121437,0.056815496,19,3
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007364.1_cds_YP_308673.1_12,NS1,nonstructural protein 1,Reference,0.317926188,3.01442252,800,3
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007364.1_cds_YP_308673.1_12,NS1,nonstructural protein 1,background,0.470745907,5.590372474,2607,3
-GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007364.1_cds_YP_308673.1_12,NS1,nonstructural protein 1,Foreground,0.732743004,0.109883879,70,3
+gene,gene,protein,comparison_group,group_dN/dS,group_T,group_N,group_aa_conserved
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007357.1_cds_YP_308664.1_1,PB2,polymerase,Reference,0.059984594,3.632262518,1605,5
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007357.1_cds_YP_308664.1_1,PB2,polymerase,Foreground,0.183745371,0.105548401,196,5
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007357.1_cds_YP_308664.1_1,PB2,polymerase,background,0.131563621,6.013209422,4340,5
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007358.1_cds_YP_308665.1_2,PB1,polymerase,Reference,0.063079427,2.955884235,1582,5
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007358.1_cds_YP_308665.1_2,PB1,polymerase,Foreground,0.139012619,0.094441095,181,5
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007358.1_cds_YP_308665.1_2,PB1,polymerase,background,0.105669799,6.244306783,4237,5
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007358.1_cds_YP_473348.1_3,PB1-F2,PB1-F2 protein,Reference,5.431019706,2.200297145,363,1
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007358.1_cds_YP_473348.1_3,PB1-F2,PB1-F2 protein,Foreground,3.218031214,0.190162728,16,1
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007358.1_cds_YP_473348.1_3,PB1-F2,PB1-F2 protein,background,3.669338154,6.407785393,1282,1
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007359.1_cds_YP_006495800.1_5,PA-X,PA-X protein,Reference,0.149309426,2.408881955,813,2
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007359.1_cds_YP_006495800.1_5,PA-X,PA-X protein,Foreground,0.819077381,0.371744949,67,2
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007359.1_cds_YP_006495800.1_5,PA-X,PA-X protein,background,0.245101607,5.836480922,2617,2
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007359.1_cds_YP_308666.1_4,PA,polymerase,Reference,0.091155245,2.952217436,1591,3
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007359.1_cds_YP_308666.1_4,PA,polymerase,Foreground,0.204773109,0.101233938,166,3
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007359.1_cds_YP_308666.1_4,PA,polymerase,background,0.155096673,5.997216492,4358,3
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007360.1_cds_YP_308667.1_7,NP,nucleocapsid protein,Reference,0.044403977,2.685991705,1210,6
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007360.1_cds_YP_308667.1_7,NP,nucleocapsid protein,Foreground,0.150584468,0.080104154,102,6
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007360.1_cds_YP_308667.1_7,NP,nucleocapsid protein,background,0.102625592,4.892566487,3421,6
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007361.1_cds_YP_308668.1_8,NA,neuraminidase,Reference,0.186171933,4.25779779,1462,2
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007361.1_cds_YP_308668.1_8,NA,neuraminidase,Foreground,0.234400415,0.114120596,123,2
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007361.1_cds_YP_308668.1_8,NA,neuraminidase,background,0.257746587,7.895423113,4093,2
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007362.1_cds_YP_308669.1_6,HA,hemagglutinin,Reference,0.135638284,3.768926337,1799,4
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007362.1_cds_YP_308669.1_6,HA,hemagglutinin,Foreground,0.264910952,0.10116194,139,4
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007362.1_cds_YP_308669.1_6,HA,hemagglutinin,background,0.187146093,7.883536247,4639,4
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308670.1_9,M2,matrix protein 2,Reference,0.792889272,1.192917497,267,1
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308670.1_9,M2,matrix protein 2,Foreground,1.191561699,0.013772886,7,1
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308670.1_9,M2,matrix protein 2,background,0.680767064,3.270917701,1022,1
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308671.1_10,M1,matrix protein 1,Reference,0.053260373,1.772583514,635,8
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308671.1_10,M1,matrix protein 1,Foreground,0.062497968,0.06118787,46,8
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007363.1_cds_YP_308671.1_10,M1,matrix protein 1,background,0.088820304,3.928446666,2096,8
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007364.1_cds_YP_308672.1_11,NEP,nonstructural protein 2,Reference,0.306068261,2.061700395,397,3
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007364.1_cds_YP_308672.1_11,NEP,nonstructural protein 2,Foreground,0.394106398,0.05687109,19,3
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007364.1_cds_YP_308672.1_11,NEP,nonstructural protein 2,background,0.415150508,4.337023736,1477,3
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007364.1_cds_YP_308673.1_12,NS1,nonstructural protein 1,Reference,0.317221701,3.014834497,800,3
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007364.1_cds_YP_308673.1_12,NS1,nonstructural protein 1,Foreground,0.733384732,0.109828478,71,3
+GCF_000864105.1_noTerminalStopCodon.part_lcl__NC_007364.1_cds_YP_308673.1_12,NS1,nonstructural protein 1,background,0.47216094,5.588016136,2607,3
